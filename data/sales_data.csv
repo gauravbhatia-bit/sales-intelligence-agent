@@ -1,0 +1,1201 @@
+date,region,product,category,units_sold,unit_price,revenue
+2024-01-01,North,Nike Air Max,Footwear,173,149.99,25948.27
+2024-01-01,North,Adidas Ultraboost,Footwear,38,189.99,7219.62
+2024-01-01,North,Puma RS-X,Footwear,16,109.99,1759.84
+2024-01-01,North,Reebok Classic,Footwear,199,89.99,17908.01
+2024-01-01,North,New Balance 990,Footwear,80,174.99,13999.2
+2024-01-01,North,Levis 501,Apparel,72,69.99,5039.28
+2024-01-01,North,Zara Blazer,Apparel,67,129.99,8709.33
+2024-01-01,North,HM Joggers,Apparel,45,39.99,1799.55
+2024-01-01,North,Uniqlo Hoodie,Apparel,198,59.99,11878.02
+2024-01-01,North,Gap Chinos,Apparel,36,79.99,2879.64
+2024-01-01,South,Nike Air Max,Footwear,183,149.99,27448.17
+2024-01-01,South,Adidas Ultraboost,Footwear,199,189.99,37808.01
+2024-01-01,South,Puma RS-X,Footwear,149,109.99,16388.51
+2024-01-01,South,Reebok Classic,Footwear,32,89.99,2879.68
+2024-01-01,South,New Balance 990,Footwear,161,174.99,28173.39
+2024-01-01,South,Levis 501,Apparel,118,69.99,8258.82
+2024-01-01,South,Zara Blazer,Apparel,18,129.99,2339.82
+2024-01-01,South,HM Joggers,Apparel,17,39.99,679.83
+2024-01-01,South,Uniqlo Hoodie,Apparel,33,59.99,1979.67
+2024-01-01,South,Gap Chinos,Apparel,65,79.99,5199.35
+2024-01-01,East,Nike Air Max,Footwear,69,149.99,10349.31
+2024-01-01,East,Adidas Ultraboost,Footwear,139,189.99,26408.61
+2024-01-01,East,Puma RS-X,Footwear,164,109.99,18038.36
+2024-01-01,East,Reebok Classic,Footwear,16,89.99,1439.84
+2024-01-01,East,New Balance 990,Footwear,153,174.99,26773.47
+2024-01-01,East,Levis 501,Apparel,60,69.99,4199.4
+2024-01-01,East,Zara Blazer,Apparel,193,129.99,25088.07
+2024-01-01,East,HM Joggers,Apparel,176,39.99,7038.24
+2024-01-01,East,Uniqlo Hoodie,Apparel,189,59.99,11338.11
+2024-01-01,East,Gap Chinos,Apparel,149,79.99,11918.51
+2024-01-01,West,Nike Air Max,Footwear,117,149.99,17548.83
+2024-01-01,West,Adidas Ultraboost,Footwear,66,189.99,12539.34
+2024-01-01,West,Puma RS-X,Footwear,124,109.99,13638.76
+2024-01-01,West,Reebok Classic,Footwear,160,89.99,14398.4
+2024-01-01,West,New Balance 990,Footwear,81,174.99,14174.19
+2024-01-01,West,Levis 501,Apparel,11,69.99,769.89
+2024-01-01,West,Zara Blazer,Apparel,50,129.99,6499.5
+2024-01-01,West,HM Joggers,Apparel,188,39.99,7518.12
+2024-01-01,West,Uniqlo Hoodie,Apparel,118,59.99,7078.82
+2024-01-01,West,Gap Chinos,Apparel,97,79.99,7759.03
+2024-01-01,Central,Nike Air Max,Footwear,81,149.99,12149.19
+2024-01-01,Central,Adidas Ultraboost,Footwear,49,189.99,9309.51
+2024-01-01,Central,Puma RS-X,Footwear,65,109.99,7149.35
+2024-01-01,Central,Reebok Classic,Footwear,96,89.99,8639.04
+2024-01-01,Central,New Balance 990,Footwear,36,174.99,6299.64
+2024-01-01,Central,Levis 501,Apparel,33,69.99,2309.67
+2024-01-01,Central,Zara Blazer,Apparel,107,129.99,13908.93
+2024-01-01,Central,HM Joggers,Apparel,34,39.99,1359.66
+2024-01-01,Central,Uniqlo Hoodie,Apparel,101,59.99,6058.99
+2024-01-01,Central,Gap Chinos,Apparel,98,79.99,7839.02
+2024-02-01,North,Nike Air Max,Footwear,164,149.99,24598.36
+2024-02-01,North,Adidas Ultraboost,Footwear,77,189.99,14629.23
+2024-02-01,North,Puma RS-X,Footwear,21,109.99,2309.79
+2024-02-01,North,Reebok Classic,Footwear,196,89.99,17638.04
+2024-02-01,North,New Balance 990,Footwear,127,174.99,22223.73
+2024-02-01,North,Levis 501,Apparel,147,69.99,10288.53
+2024-02-01,North,Zara Blazer,Apparel,41,129.99,5329.59
+2024-02-01,North,HM Joggers,Apparel,106,39.99,4238.94
+2024-02-01,North,Uniqlo Hoodie,Apparel,30,59.99,1799.7
+2024-02-01,North,Gap Chinos,Apparel,151,79.99,12078.49
+2024-02-01,South,Nike Air Max,Footwear,85,149.99,12749.15
+2024-02-01,South,Adidas Ultraboost,Footwear,170,189.99,32298.3
+2024-02-01,South,Puma RS-X,Footwear,168,109.99,18478.32
+2024-02-01,South,Reebok Classic,Footwear,102,89.99,9178.98
+2024-02-01,South,New Balance 990,Footwear,157,174.99,27473.43
+2024-02-01,South,Levis 501,Apparel,59,69.99,4129.41
+2024-02-01,South,Zara Blazer,Apparel,190,129.99,24698.1
+2024-02-01,South,HM Joggers,Apparel,27,39.99,1079.73
+2024-02-01,South,Uniqlo Hoodie,Apparel,21,59.99,1259.79
+2024-02-01,South,Gap Chinos,Apparel,179,79.99,14318.21
+2024-02-01,East,Nike Air Max,Footwear,68,149.99,10199.32
+2024-02-01,East,Adidas Ultraboost,Footwear,84,189.99,15959.16
+2024-02-01,East,Puma RS-X,Footwear,30,109.99,3299.7
+2024-02-01,East,Reebok Classic,Footwear,69,89.99,6209.31
+2024-02-01,East,New Balance 990,Footwear,35,174.99,6124.65
+2024-02-01,East,Levis 501,Apparel,107,69.99,7488.93
+2024-02-01,East,Zara Blazer,Apparel,81,129.99,10529.19
+2024-02-01,East,HM Joggers,Apparel,126,39.99,5038.74
+2024-02-01,East,Uniqlo Hoodie,Apparel,172,59.99,10318.28
+2024-02-01,East,Gap Chinos,Apparel,103,79.99,8238.97
+2024-02-01,West,Nike Air Max,Footwear,51,149.99,7649.49
+2024-02-01,West,Adidas Ultraboost,Footwear,104,189.99,19758.96
+2024-02-01,West,Puma RS-X,Footwear,100,109.99,10999.0
+2024-02-01,West,Reebok Classic,Footwear,63,89.99,5669.37
+2024-02-01,West,New Balance 990,Footwear,181,174.99,31673.19
+2024-02-01,West,Levis 501,Apparel,78,69.99,5459.22
+2024-02-01,West,Zara Blazer,Apparel,189,129.99,24568.11
+2024-02-01,West,HM Joggers,Apparel,184,39.99,7358.16
+2024-02-01,West,Uniqlo Hoodie,Apparel,175,59.99,10498.25
+2024-02-01,West,Gap Chinos,Apparel,28,79.99,2239.72
+2024-02-01,Central,Nike Air Max,Footwear,165,149.99,24748.35
+2024-02-01,Central,Adidas Ultraboost,Footwear,172,189.99,32678.28
+2024-02-01,Central,Puma RS-X,Footwear,53,109.99,5829.47
+2024-02-01,Central,Reebok Classic,Footwear,146,89.99,13138.54
+2024-02-01,Central,New Balance 990,Footwear,196,174.99,34298.04
+2024-02-01,Central,Levis 501,Apparel,72,69.99,5039.28
+2024-02-01,Central,Zara Blazer,Apparel,51,129.99,6629.49
+2024-02-01,Central,HM Joggers,Apparel,128,39.99,5118.72
+2024-02-01,Central,Uniqlo Hoodie,Apparel,107,59.99,6418.93
+2024-02-01,Central,Gap Chinos,Apparel,79,79.99,6319.21
+2024-03-01,North,Nike Air Max,Footwear,173,149.99,25948.27
+2024-03-01,North,Adidas Ultraboost,Footwear,186,189.99,35338.14
+2024-03-01,North,Puma RS-X,Footwear,152,109.99,16718.48
+2024-03-01,North,Reebok Classic,Footwear,66,89.99,5939.34
+2024-03-01,North,New Balance 990,Footwear,185,174.99,32373.15
+2024-03-01,North,Levis 501,Apparel,93,69.99,6509.07
+2024-03-01,North,Zara Blazer,Apparel,24,129.99,3119.76
+2024-03-01,North,HM Joggers,Apparel,68,39.99,2719.32
+2024-03-01,North,Uniqlo Hoodie,Apparel,18,59.99,1079.82
+2024-03-01,North,Gap Chinos,Apparel,90,79.99,7199.1
+2024-03-01,South,Nike Air Max,Footwear,112,149.99,16798.88
+2024-03-01,South,Adidas Ultraboost,Footwear,78,189.99,14819.22
+2024-03-01,South,Puma RS-X,Footwear,26,109.99,2859.74
+2024-03-01,South,Reebok Classic,Footwear,64,89.99,5759.36
+2024-03-01,South,New Balance 990,Footwear,155,174.99,27123.45
+2024-03-01,South,Levis 501,Apparel,193,69.99,13508.07
+2024-03-01,South,Zara Blazer,Apparel,90,129.99,11699.1
+2024-03-01,South,HM Joggers,Apparel,64,39.99,2559.36
+2024-03-01,South,Uniqlo Hoodie,Apparel,177,59.99,10618.23
+2024-03-01,South,Gap Chinos,Apparel,137,79.99,10958.63
+2024-03-01,East,Nike Air Max,Footwear,111,149.99,16648.89
+2024-03-01,East,Adidas Ultraboost,Footwear,174,189.99,33058.26
+2024-03-01,East,Puma RS-X,Footwear,127,109.99,13968.73
+2024-03-01,East,Reebok Classic,Footwear,46,89.99,4139.54
+2024-03-01,East,New Balance 990,Footwear,77,174.99,13474.23
+2024-03-01,East,Levis 501,Apparel,45,69.99,3149.55
+2024-03-01,East,Zara Blazer,Apparel,73,129.99,9489.27
+2024-03-01,East,HM Joggers,Apparel,200,39.99,7998.0
+2024-03-01,East,Uniqlo Hoodie,Apparel,153,59.99,9178.47
+2024-03-01,East,Gap Chinos,Apparel,147,79.99,11758.53
+2024-03-01,West,Nike Air Max,Footwear,77,149.99,11549.23
+2024-03-01,West,Adidas Ultraboost,Footwear,159,189.99,30208.41
+2024-03-01,West,Puma RS-X,Footwear,119,109.99,13088.81
+2024-03-01,West,Reebok Classic,Footwear,159,89.99,14308.41
+2024-03-01,West,New Balance 990,Footwear,112,174.99,19598.88
+2024-03-01,West,Levis 501,Apparel,102,69.99,7138.98
+2024-03-01,West,Zara Blazer,Apparel,66,129.99,8579.34
+2024-03-01,West,HM Joggers,Apparel,45,39.99,1799.55
+2024-03-01,West,Uniqlo Hoodie,Apparel,140,59.99,8398.6
+2024-03-01,West,Gap Chinos,Apparel,136,79.99,10878.64
+2024-03-01,Central,Nike Air Max,Footwear,33,149.99,4949.67
+2024-03-01,Central,Adidas Ultraboost,Footwear,22,189.99,4179.78
+2024-03-01,Central,Puma RS-X,Footwear,38,109.99,4179.62
+2024-03-01,Central,Reebok Classic,Footwear,49,89.99,4409.51
+2024-03-01,Central,New Balance 990,Footwear,170,174.99,29748.3
+2024-03-01,Central,Levis 501,Apparel,50,69.99,3499.5
+2024-03-01,Central,Zara Blazer,Apparel,184,129.99,23918.16
+2024-03-01,Central,HM Joggers,Apparel,118,39.99,4718.82
+2024-03-01,Central,Uniqlo Hoodie,Apparel,162,59.99,9718.38
+2024-03-01,Central,Gap Chinos,Apparel,26,79.99,2079.74
+2024-04-01,North,Nike Air Max,Footwear,108,149.99,16198.92
+2024-04-01,North,Adidas Ultraboost,Footwear,107,189.99,20328.93
+2024-04-01,North,Puma RS-X,Footwear,162,109.99,17818.38
+2024-04-01,North,Reebok Classic,Footwear,129,89.99,11608.71
+2024-04-01,North,New Balance 990,Footwear,145,174.99,25373.55
+2024-04-01,North,Levis 501,Apparel,74,69.99,5179.26
+2024-04-01,North,Zara Blazer,Apparel,151,129.99,19628.49
+2024-04-01,North,HM Joggers,Apparel,12,39.99,479.88
+2024-04-01,North,Uniqlo Hoodie,Apparel,184,59.99,11038.16
+2024-04-01,North,Gap Chinos,Apparel,194,79.99,15518.06
+2024-04-01,South,Nike Air Max,Footwear,39,149.99,5849.61
+2024-04-01,South,Adidas Ultraboost,Footwear,184,189.99,34958.16
+2024-04-01,South,Puma RS-X,Footwear,147,109.99,16168.53
+2024-04-01,South,Reebok Classic,Footwear,78,89.99,7019.22
+2024-04-01,South,New Balance 990,Footwear,174,174.99,30448.26
+2024-04-01,South,Levis 501,Apparel,97,69.99,6789.03
+2024-04-01,South,Zara Blazer,Apparel,38,129.99,4939.62
+2024-04-01,South,HM Joggers,Apparel,85,39.99,3399.15
+2024-04-01,South,Uniqlo Hoodie,Apparel,121,59.99,7258.79
+2024-04-01,South,Gap Chinos,Apparel,50,79.99,3999.5
+2024-04-01,East,Nike Air Max,Footwear,126,149.99,18898.74
+2024-04-01,East,Adidas Ultraboost,Footwear,10,189.99,1899.9
+2024-04-01,East,Puma RS-X,Footwear,194,109.99,21338.06
+2024-04-01,East,Reebok Classic,Footwear,194,89.99,17458.06
+2024-04-01,East,New Balance 990,Footwear,77,174.99,13474.23
+2024-04-01,East,Levis 501,Apparel,138,69.99,9658.62
+2024-04-01,East,Zara Blazer,Apparel,55,129.99,7149.45
+2024-04-01,East,HM Joggers,Apparel,139,39.99,5558.61
+2024-04-01,East,Uniqlo Hoodie,Apparel,37,59.99,2219.63
+2024-04-01,East,Gap Chinos,Apparel,170,79.99,13598.3
+2024-04-01,West,Nike Air Max,Footwear,86,149.99,12899.14
+2024-04-01,West,Adidas Ultraboost,Footwear,173,189.99,32868.27
+2024-04-01,West,Puma RS-X,Footwear,139,109.99,15288.61
+2024-04-01,West,Reebok Classic,Footwear,165,89.99,14848.35
+2024-04-01,West,New Balance 990,Footwear,60,174.99,10499.4
+2024-04-01,West,Levis 501,Apparel,49,69.99,3429.51
+2024-04-01,West,Zara Blazer,Apparel,105,129.99,13648.95
+2024-04-01,West,HM Joggers,Apparel,51,39.99,2039.49
+2024-04-01,West,Uniqlo Hoodie,Apparel,148,59.99,8878.52
+2024-04-01,West,Gap Chinos,Apparel,145,79.99,11598.55
+2024-04-01,Central,Nike Air Max,Footwear,10,149.99,1499.9
+2024-04-01,Central,Adidas Ultraboost,Footwear,163,189.99,30968.37
+2024-04-01,Central,Puma RS-X,Footwear,92,109.99,10119.08
+2024-04-01,Central,Reebok Classic,Footwear,135,89.99,12148.65
+2024-04-01,Central,New Balance 990,Footwear,14,174.99,2449.86
+2024-04-01,Central,Levis 501,Apparel,38,69.99,2659.62
+2024-04-01,Central,Zara Blazer,Apparel,102,129.99,13258.98
+2024-04-01,Central,HM Joggers,Apparel,88,39.99,3519.12
+2024-04-01,Central,Uniqlo Hoodie,Apparel,71,59.99,4259.29
+2024-04-01,Central,Gap Chinos,Apparel,24,79.99,1919.76
+2024-05-01,North,Nike Air Max,Footwear,71,149.99,10649.29
+2024-05-01,North,Adidas Ultraboost,Footwear,155,189.99,29448.45
+2024-05-01,North,Puma RS-X,Footwear,30,109.99,3299.7
+2024-05-01,North,Reebok Classic,Footwear,31,89.99,2789.69
+2024-05-01,North,New Balance 990,Footwear,197,174.99,34473.03
+2024-05-01,North,Levis 501,Apparel,134,69.99,9378.66
+2024-05-01,North,Zara Blazer,Apparel,27,129.99,3509.73
+2024-05-01,North,HM Joggers,Apparel,146,39.99,5838.54
+2024-05-01,North,Uniqlo Hoodie,Apparel,42,59.99,2519.58
+2024-05-01,North,Gap Chinos,Apparel,42,79.99,3359.58
+2024-05-01,South,Nike Air Max,Footwear,178,149.99,26698.22
+2024-05-01,South,Adidas Ultraboost,Footwear,131,189.99,24888.69
+2024-05-01,South,Puma RS-X,Footwear,150,109.99,16498.5
+2024-05-01,South,Reebok Classic,Footwear,52,89.99,4679.48
+2024-05-01,South,New Balance 990,Footwear,77,174.99,13474.23
+2024-05-01,South,Levis 501,Apparel,145,69.99,10148.55
+2024-05-01,South,Zara Blazer,Apparel,165,129.99,21448.35
+2024-05-01,South,HM Joggers,Apparel,118,39.99,4718.82
+2024-05-01,South,Uniqlo Hoodie,Apparel,64,59.99,3839.36
+2024-05-01,South,Gap Chinos,Apparel,148,79.99,11838.52
+2024-05-01,East,Nike Air Max,Footwear,196,149.99,29398.04
+2024-05-01,East,Adidas Ultraboost,Footwear,186,189.99,35338.14
+2024-05-01,East,Puma RS-X,Footwear,61,109.99,6709.39
+2024-05-01,East,Reebok Classic,Footwear,192,89.99,17278.08
+2024-05-01,East,New Balance 990,Footwear,89,174.99,15574.11
+2024-05-01,East,Levis 501,Apparel,112,69.99,7838.88
+2024-05-01,East,Zara Blazer,Apparel,181,129.99,23528.19
+2024-05-01,East,HM Joggers,Apparel,176,39.99,7038.24
+2024-05-01,East,Uniqlo Hoodie,Apparel,105,59.99,6298.95
+2024-05-01,East,Gap Chinos,Apparel,122,79.99,9758.78
+2024-05-01,West,Nike Air Max,Footwear,142,149.99,21298.58
+2024-05-01,West,Adidas Ultraboost,Footwear,125,189.99,23748.75
+2024-05-01,West,Puma RS-X,Footwear,40,109.99,4399.6
+2024-05-01,West,Reebok Classic,Footwear,73,89.99,6569.27
+2024-05-01,West,New Balance 990,Footwear,67,174.99,11724.33
+2024-05-01,West,Levis 501,Apparel,26,69.99,1819.74
+2024-05-01,West,Zara Blazer,Apparel,96,129.99,12479.04
+2024-05-01,West,HM Joggers,Apparel,15,39.99,599.85
+2024-05-01,West,Uniqlo Hoodie,Apparel,160,59.99,9598.4
+2024-05-01,West,Gap Chinos,Apparel,151,79.99,12078.49
+2024-05-01,Central,Nike Air Max,Footwear,68,149.99,10199.32
+2024-05-01,Central,Adidas Ultraboost,Footwear,160,189.99,30398.4
+2024-05-01,Central,Puma RS-X,Footwear,66,109.99,7259.34
+2024-05-01,Central,Reebok Classic,Footwear,11,89.99,989.89
+2024-05-01,Central,New Balance 990,Footwear,28,174.99,4899.72
+2024-05-01,Central,Levis 501,Apparel,191,69.99,13368.09
+2024-05-01,Central,Zara Blazer,Apparel,171,129.99,22228.29
+2024-05-01,Central,HM Joggers,Apparel,25,39.99,999.75
+2024-05-01,Central,Uniqlo Hoodie,Apparel,68,59.99,4079.32
+2024-05-01,Central,Gap Chinos,Apparel,27,79.99,2159.73
+2024-06-01,North,Nike Air Max,Footwear,18,149.99,2699.82
+2024-06-01,North,Adidas Ultraboost,Footwear,94,189.99,17859.06
+2024-06-01,North,Puma RS-X,Footwear,28,109.99,3079.72
+2024-06-01,North,Reebok Classic,Footwear,141,89.99,12688.59
+2024-06-01,North,New Balance 990,Footwear,70,174.99,12249.3
+2024-06-01,North,Levis 501,Apparel,81,69.99,5669.19
+2024-06-01,North,Zara Blazer,Apparel,181,129.99,23528.19
+2024-06-01,North,HM Joggers,Apparel,134,39.99,5358.66
+2024-06-01,North,Uniqlo Hoodie,Apparel,64,59.99,3839.36
+2024-06-01,North,Gap Chinos,Apparel,148,79.99,11838.52
+2024-06-01,South,Nike Air Max,Footwear,43,149.99,6449.57
+2024-06-01,South,Adidas Ultraboost,Footwear,195,189.99,37048.05
+2024-06-01,South,Puma RS-X,Footwear,156,109.99,17158.44
+2024-06-01,South,Reebok Classic,Footwear,157,89.99,14128.43
+2024-06-01,South,New Balance 990,Footwear,131,174.99,22923.69
+2024-06-01,South,Levis 501,Apparel,72,69.99,5039.28
+2024-06-01,South,Zara Blazer,Apparel,131,129.99,17028.69
+2024-06-01,South,HM Joggers,Apparel,114,39.99,4558.86
+2024-06-01,South,Uniqlo Hoodie,Apparel,58,59.99,3479.42
+2024-06-01,South,Gap Chinos,Apparel,34,79.99,2719.66
+2024-06-01,East,Nike Air Max,Footwear,34,149.99,5099.66
+2024-06-01,East,Adidas Ultraboost,Footwear,178,189.99,33818.22
+2024-06-01,East,Puma RS-X,Footwear,120,109.99,13198.8
+2024-06-01,East,Reebok Classic,Footwear,100,89.99,8999.0
+2024-06-01,East,New Balance 990,Footwear,118,174.99,20648.82
+2024-06-01,East,Levis 501,Apparel,115,69.99,8048.85
+2024-06-01,East,Zara Blazer,Apparel,129,129.99,16768.71
+2024-06-01,East,HM Joggers,Apparel,196,39.99,7838.04
+2024-06-01,East,Uniqlo Hoodie,Apparel,23,59.99,1379.77
+2024-06-01,East,Gap Chinos,Apparel,182,79.99,14558.18
+2024-06-01,West,Nike Air Max,Footwear,177,149.99,26548.23
+2024-06-01,West,Adidas Ultraboost,Footwear,175,189.99,33248.25
+2024-06-01,West,Puma RS-X,Footwear,35,109.99,3849.65
+2024-06-01,West,Reebok Classic,Footwear,25,89.99,2249.75
+2024-06-01,West,New Balance 990,Footwear,113,174.99,19773.87
+2024-06-01,West,Levis 501,Apparel,196,69.99,13718.04
+2024-06-01,West,Zara Blazer,Apparel,96,129.99,12479.04
+2024-06-01,West,HM Joggers,Apparel,37,39.99,1479.63
+2024-06-01,West,Uniqlo Hoodie,Apparel,73,59.99,4379.27
+2024-06-01,West,Gap Chinos,Apparel,59,79.99,4719.41
+2024-06-01,Central,Nike Air Max,Footwear,58,149.99,8699.42
+2024-06-01,Central,Adidas Ultraboost,Footwear,147,189.99,27928.53
+2024-06-01,Central,Puma RS-X,Footwear,124,109.99,13638.76
+2024-06-01,Central,Reebok Classic,Footwear,45,89.99,4049.55
+2024-06-01,Central,New Balance 990,Footwear,118,174.99,20648.82
+2024-06-01,Central,Levis 501,Apparel,56,69.99,3919.44
+2024-06-01,Central,Zara Blazer,Apparel,81,129.99,10529.19
+2024-06-01,Central,HM Joggers,Apparel,128,39.99,5118.72
+2024-06-01,Central,Uniqlo Hoodie,Apparel,73,59.99,4379.27
+2024-06-01,Central,Gap Chinos,Apparel,29,79.99,2319.71
+2024-07-01,North,Nike Air Max,Footwear,123,149.99,18448.77
+2024-07-01,North,Adidas Ultraboost,Footwear,150,189.99,28498.5
+2024-07-01,North,Puma RS-X,Footwear,35,109.99,3849.65
+2024-07-01,North,Reebok Classic,Footwear,22,89.99,1979.78
+2024-07-01,North,New Balance 990,Footwear,176,174.99,30798.24
+2024-07-01,North,Levis 501,Apparel,148,69.99,10358.52
+2024-07-01,North,Zara Blazer,Apparel,13,129.99,1689.87
+2024-07-01,North,HM Joggers,Apparel,33,39.99,1319.67
+2024-07-01,North,Uniqlo Hoodie,Apparel,70,59.99,4199.3
+2024-07-01,North,Gap Chinos,Apparel,52,79.99,4159.48
+2024-07-01,South,Nike Air Max,Footwear,114,149.99,17098.86
+2024-07-01,South,Adidas Ultraboost,Footwear,134,189.99,25458.66
+2024-07-01,South,Puma RS-X,Footwear,133,109.99,14628.67
+2024-07-01,South,Reebok Classic,Footwear,64,89.99,5759.36
+2024-07-01,South,New Balance 990,Footwear,112,174.99,19598.88
+2024-07-01,South,Levis 501,Apparel,25,69.99,1749.75
+2024-07-01,South,Zara Blazer,Apparel,52,129.99,6759.48
+2024-07-01,South,HM Joggers,Apparel,107,39.99,4278.93
+2024-07-01,South,Uniqlo Hoodie,Apparel,10,59.99,599.9
+2024-07-01,South,Gap Chinos,Apparel,109,79.99,8718.91
+2024-07-01,East,Nike Air Max,Footwear,77,149.99,11549.23
+2024-07-01,East,Adidas Ultraboost,Footwear,126,189.99,23938.74
+2024-07-01,East,Puma RS-X,Footwear,83,109.99,9129.17
+2024-07-01,East,Reebok Classic,Footwear,118,89.99,10618.82
+2024-07-01,East,New Balance 990,Footwear,188,174.99,32898.12
+2024-07-01,East,Levis 501,Apparel,197,69.99,13788.03
+2024-07-01,East,Zara Blazer,Apparel,152,129.99,19758.48
+2024-07-01,East,HM Joggers,Apparel,179,39.99,7158.21
+2024-07-01,East,Uniqlo Hoodie,Apparel,193,59.99,11578.07
+2024-07-01,East,Gap Chinos,Apparel,134,79.99,10718.66
+2024-07-01,West,Nike Air Max,Footwear,49,149.99,7349.51
+2024-07-01,West,Adidas Ultraboost,Footwear,58,189.99,11019.42
+2024-07-01,West,Puma RS-X,Footwear,85,109.99,9349.15
+2024-07-01,West,Reebok Classic,Footwear,65,89.99,5849.35
+2024-07-01,West,New Balance 990,Footwear,24,174.99,4199.76
+2024-07-01,West,Levis 501,Apparel,158,69.99,11058.42
+2024-07-01,West,Zara Blazer,Apparel,198,129.99,25738.02
+2024-07-01,West,HM Joggers,Apparel,148,39.99,5918.52
+2024-07-01,West,Uniqlo Hoodie,Apparel,25,59.99,1499.75
+2024-07-01,West,Gap Chinos,Apparel,90,79.99,7199.1
+2024-07-01,Central,Nike Air Max,Footwear,24,149.99,3599.76
+2024-07-01,Central,Adidas Ultraboost,Footwear,22,189.99,4179.78
+2024-07-01,Central,Puma RS-X,Footwear,159,109.99,17488.41
+2024-07-01,Central,Reebok Classic,Footwear,132,89.99,11878.68
+2024-07-01,Central,New Balance 990,Footwear,138,174.99,24148.62
+2024-07-01,Central,Levis 501,Apparel,145,69.99,10148.55
+2024-07-01,Central,Zara Blazer,Apparel,50,129.99,6499.5
+2024-07-01,Central,HM Joggers,Apparel,24,39.99,959.76
+2024-07-01,Central,Uniqlo Hoodie,Apparel,140,59.99,8398.6
+2024-07-01,Central,Gap Chinos,Apparel,30,79.99,2399.7
+2024-08-01,North,Nike Air Max,Footwear,57,149.99,8549.43
+2024-08-01,North,Adidas Ultraboost,Footwear,27,189.99,5129.73
+2024-08-01,North,Puma RS-X,Footwear,162,109.99,17818.38
+2024-08-01,North,Reebok Classic,Footwear,27,89.99,2429.73
+2024-08-01,North,New Balance 990,Footwear,182,174.99,31848.18
+2024-08-01,North,Levis 501,Apparel,70,69.99,4899.3
+2024-08-01,North,Zara Blazer,Apparel,113,129.99,14688.87
+2024-08-01,North,HM Joggers,Apparel,40,39.99,1599.6
+2024-08-01,North,Uniqlo Hoodie,Apparel,155,59.99,9298.45
+2024-08-01,North,Gap Chinos,Apparel,73,79.99,5839.27
+2024-08-01,South,Nike Air Max,Footwear,158,149.99,23698.42
+2024-08-01,South,Adidas Ultraboost,Footwear,162,189.99,30778.38
+2024-08-01,South,Puma RS-X,Footwear,20,109.99,2199.8
+2024-08-01,South,Reebok Classic,Footwear,168,89.99,15118.32
+2024-08-01,South,New Balance 990,Footwear,30,174.99,5249.7
+2024-08-01,South,Levis 501,Apparel,117,69.99,8188.83
+2024-08-01,South,Zara Blazer,Apparel,178,129.99,23138.22
+2024-08-01,South,HM Joggers,Apparel,159,39.99,6358.41
+2024-08-01,South,Uniqlo Hoodie,Apparel,154,59.99,9238.46
+2024-08-01,South,Gap Chinos,Apparel,143,79.99,11438.57
+2024-08-01,East,Nike Air Max,Footwear,90,149.99,13499.1
+2024-08-01,East,Adidas Ultraboost,Footwear,76,189.99,14439.24
+2024-08-01,East,Puma RS-X,Footwear,62,109.99,6819.38
+2024-08-01,East,Reebok Classic,Footwear,181,89.99,16288.19
+2024-08-01,East,New Balance 990,Footwear,193,174.99,33773.07
+2024-08-01,East,Levis 501,Apparel,90,69.99,6299.1
+2024-08-01,East,Zara Blazer,Apparel,71,129.99,9229.29
+2024-08-01,East,HM Joggers,Apparel,77,39.99,3079.23
+2024-08-01,East,Uniqlo Hoodie,Apparel,111,59.99,6658.89
+2024-08-01,East,Gap Chinos,Apparel,43,79.99,3439.57
+2024-08-01,West,Nike Air Max,Footwear,181,149.99,27148.19
+2024-08-01,West,Adidas Ultraboost,Footwear,175,189.99,33248.25
+2024-08-01,West,Puma RS-X,Footwear,86,109.99,9459.14
+2024-08-01,West,Reebok Classic,Footwear,127,89.99,11428.73
+2024-08-01,West,New Balance 990,Footwear,90,174.99,15749.1
+2024-08-01,West,Levis 501,Apparel,28,69.99,1959.72
+2024-08-01,West,Zara Blazer,Apparel,12,129.99,1559.88
+2024-08-01,West,HM Joggers,Apparel,127,39.99,5078.73
+2024-08-01,West,Uniqlo Hoodie,Apparel,169,59.99,10138.31
+2024-08-01,West,Gap Chinos,Apparel,154,79.99,12318.46
+2024-08-01,Central,Nike Air Max,Footwear,35,149.99,5249.65
+2024-08-01,Central,Adidas Ultraboost,Footwear,28,189.99,5319.72
+2024-08-01,Central,Puma RS-X,Footwear,147,109.99,16168.53
+2024-08-01,Central,Reebok Classic,Footwear,64,89.99,5759.36
+2024-08-01,Central,New Balance 990,Footwear,139,174.99,24323.61
+2024-08-01,Central,Levis 501,Apparel,77,69.99,5389.23
+2024-08-01,Central,Zara Blazer,Apparel,43,129.99,5589.57
+2024-08-01,Central,HM Joggers,Apparel,99,39.99,3959.01
+2024-08-01,Central,Uniqlo Hoodie,Apparel,27,59.99,1619.73
+2024-08-01,Central,Gap Chinos,Apparel,72,79.99,5759.28
+2024-09-01,North,Nike Air Max,Footwear,104,149.99,15598.96
+2024-09-01,North,Adidas Ultraboost,Footwear,82,189.99,15579.18
+2024-09-01,North,Puma RS-X,Footwear,50,109.99,5499.5
+2024-09-01,North,Reebok Classic,Footwear,122,89.99,10978.78
+2024-09-01,North,New Balance 990,Footwear,149,174.99,26073.51
+2024-09-01,North,Levis 501,Apparel,190,69.99,13298.1
+2024-09-01,North,Zara Blazer,Apparel,87,129.99,11309.13
+2024-09-01,North,HM Joggers,Apparel,166,39.99,6638.34
+2024-09-01,North,Uniqlo Hoodie,Apparel,177,59.99,10618.23
+2024-09-01,North,Gap Chinos,Apparel,145,79.99,11598.55
+2024-09-01,South,Nike Air Max,Footwear,12,149.99,1799.88
+2024-09-01,South,Adidas Ultraboost,Footwear,180,189.99,34198.2
+2024-09-01,South,Puma RS-X,Footwear,151,109.99,16608.49
+2024-09-01,South,Reebok Classic,Footwear,86,89.99,7739.14
+2024-09-01,South,New Balance 990,Footwear,179,174.99,31323.21
+2024-09-01,South,Levis 501,Apparel,36,69.99,2519.64
+2024-09-01,South,Zara Blazer,Apparel,44,129.99,5719.56
+2024-09-01,South,HM Joggers,Apparel,77,39.99,3079.23
+2024-09-01,South,Uniqlo Hoodie,Apparel,39,59.99,2339.61
+2024-09-01,South,Gap Chinos,Apparel,37,79.99,2959.63
+2024-09-01,East,Nike Air Max,Footwear,200,149.99,29998.0
+2024-09-01,East,Adidas Ultraboost,Footwear,151,189.99,28688.49
+2024-09-01,East,Puma RS-X,Footwear,49,109.99,5389.51
+2024-09-01,East,Reebok Classic,Footwear,79,89.99,7109.21
+2024-09-01,East,New Balance 990,Footwear,82,174.99,14349.18
+2024-09-01,East,Levis 501,Apparel,164,69.99,11478.36
+2024-09-01,East,Zara Blazer,Apparel,63,129.99,8189.37
+2024-09-01,East,HM Joggers,Apparel,193,39.99,7718.07
+2024-09-01,East,Uniqlo Hoodie,Apparel,97,59.99,5819.03
+2024-09-01,East,Gap Chinos,Apparel,62,79.99,4959.38
+2024-09-01,West,Nike Air Max,Footwear,185,149.99,27748.15
+2024-09-01,West,Adidas Ultraboost,Footwear,172,189.99,32678.28
+2024-09-01,West,Puma RS-X,Footwear,77,109.99,8469.23
+2024-09-01,West,Reebok Classic,Footwear,139,89.99,12508.61
+2024-09-01,West,New Balance 990,Footwear,135,174.99,23623.65
+2024-09-01,West,Levis 501,Apparel,74,69.99,5179.26
+2024-09-01,West,Zara Blazer,Apparel,23,129.99,2989.77
+2024-09-01,West,HM Joggers,Apparel,33,39.99,1319.67
+2024-09-01,West,Uniqlo Hoodie,Apparel,172,59.99,10318.28
+2024-09-01,West,Gap Chinos,Apparel,118,79.99,9438.82
+2024-09-01,Central,Nike Air Max,Footwear,80,149.99,11999.2
+2024-09-01,Central,Adidas Ultraboost,Footwear,21,189.99,3989.79
+2024-09-01,Central,Puma RS-X,Footwear,10,109.99,1099.9
+2024-09-01,Central,Reebok Classic,Footwear,95,89.99,8549.05
+2024-09-01,Central,New Balance 990,Footwear,43,174.99,7524.57
+2024-09-01,Central,Levis 501,Apparel,173,69.99,12108.27
+2024-09-01,Central,Zara Blazer,Apparel,77,129.99,10009.23
+2024-09-01,Central,HM Joggers,Apparel,51,39.99,2039.49
+2024-09-01,Central,Uniqlo Hoodie,Apparel,199,59.99,11938.01
+2024-09-01,Central,Gap Chinos,Apparel,123,79.99,9838.77
+2024-10-01,North,Nike Air Max,Footwear,151,149.99,22648.49
+2024-10-01,North,Adidas Ultraboost,Footwear,190,189.99,36098.1
+2024-10-01,North,Puma RS-X,Footwear,119,109.99,13088.81
+2024-10-01,North,Reebok Classic,Footwear,153,89.99,13768.47
+2024-10-01,North,New Balance 990,Footwear,12,174.99,2099.88
+2024-10-01,North,Levis 501,Apparel,38,69.99,2659.62
+2024-10-01,North,Zara Blazer,Apparel,29,129.99,3769.71
+2024-10-01,North,HM Joggers,Apparel,186,39.99,7438.14
+2024-10-01,North,Uniqlo Hoodie,Apparel,48,59.99,2879.52
+2024-10-01,North,Gap Chinos,Apparel,149,79.99,11918.51
+2024-10-01,South,Nike Air Max,Footwear,19,149.99,2849.81
+2024-10-01,South,Adidas Ultraboost,Footwear,104,189.99,19758.96
+2024-10-01,South,Puma RS-X,Footwear,159,109.99,17488.41
+2024-10-01,South,Reebok Classic,Footwear,151,89.99,13588.49
+2024-10-01,South,New Balance 990,Footwear,47,174.99,8224.53
+2024-10-01,South,Levis 501,Apparel,120,69.99,8398.8
+2024-10-01,South,Zara Blazer,Apparel,42,129.99,5459.58
+2024-10-01,South,HM Joggers,Apparel,20,39.99,799.8
+2024-10-01,South,Uniqlo Hoodie,Apparel,88,59.99,5279.12
+2024-10-01,South,Gap Chinos,Apparel,103,79.99,8238.97
+2024-10-01,East,Nike Air Max,Footwear,20,149.99,2999.8
+2024-10-01,East,Adidas Ultraboost,Footwear,101,189.99,19188.99
+2024-10-01,East,Puma RS-X,Footwear,63,109.99,6929.37
+2024-10-01,East,Reebok Classic,Footwear,184,89.99,16558.16
+2024-10-01,East,New Balance 990,Footwear,73,174.99,12774.27
+2024-10-01,East,Levis 501,Apparel,180,69.99,12598.2
+2024-10-01,East,Zara Blazer,Apparel,36,129.99,4679.64
+2024-10-01,East,HM Joggers,Apparel,100,39.99,3999.0
+2024-10-01,East,Uniqlo Hoodie,Apparel,153,59.99,9178.47
+2024-10-01,East,Gap Chinos,Apparel,114,79.99,9118.86
+2024-10-01,West,Nike Air Max,Footwear,168,149.99,25198.32
+2024-10-01,West,Adidas Ultraboost,Footwear,49,189.99,9309.51
+2024-10-01,West,Puma RS-X,Footwear,70,109.99,7699.3
+2024-10-01,West,Reebok Classic,Footwear,51,89.99,4589.49
+2024-10-01,West,New Balance 990,Footwear,55,174.99,9624.45
+2024-10-01,West,Levis 501,Apparel,115,69.99,8048.85
+2024-10-01,West,Zara Blazer,Apparel,16,129.99,2079.84
+2024-10-01,West,HM Joggers,Apparel,55,39.99,2199.45
+2024-10-01,West,Uniqlo Hoodie,Apparel,198,59.99,11878.02
+2024-10-01,West,Gap Chinos,Apparel,95,79.99,7599.05
+2024-10-01,Central,Nike Air Max,Footwear,115,149.99,17248.85
+2024-10-01,Central,Adidas Ultraboost,Footwear,181,189.99,34388.19
+2024-10-01,Central,Puma RS-X,Footwear,198,109.99,21778.02
+2024-10-01,Central,Reebok Classic,Footwear,73,89.99,6569.27
+2024-10-01,Central,New Balance 990,Footwear,78,174.99,13649.22
+2024-10-01,Central,Levis 501,Apparel,50,69.99,3499.5
+2024-10-01,Central,Zara Blazer,Apparel,189,129.99,24568.11
+2024-10-01,Central,HM Joggers,Apparel,37,39.99,1479.63
+2024-10-01,Central,Uniqlo Hoodie,Apparel,107,59.99,6418.93
+2024-10-01,Central,Gap Chinos,Apparel,19,79.99,1519.81
+2024-11-01,North,Nike Air Max,Footwear,130,149.99,19498.7
+2024-11-01,North,Adidas Ultraboost,Footwear,66,189.99,12539.34
+2024-11-01,North,Puma RS-X,Footwear,61,109.99,6709.39
+2024-11-01,North,Reebok Classic,Footwear,127,89.99,11428.73
+2024-11-01,North,New Balance 990,Footwear,99,174.99,17324.01
+2024-11-01,North,Levis 501,Apparel,88,69.99,6159.12
+2024-11-01,North,Zara Blazer,Apparel,68,129.99,8839.32
+2024-11-01,North,HM Joggers,Apparel,67,39.99,2679.33
+2024-11-01,North,Uniqlo Hoodie,Apparel,16,59.99,959.84
+2024-11-01,North,Gap Chinos,Apparel,178,79.99,14238.22
+2024-11-01,South,Nike Air Max,Footwear,59,149.99,8849.41
+2024-11-01,South,Adidas Ultraboost,Footwear,112,189.99,21278.88
+2024-11-01,South,Puma RS-X,Footwear,94,109.99,10339.06
+2024-11-01,South,Reebok Classic,Footwear,81,89.99,7289.19
+2024-11-01,South,New Balance 990,Footwear,27,174.99,4724.73
+2024-11-01,South,Levis 501,Apparel,81,69.99,5669.19
+2024-11-01,South,Zara Blazer,Apparel,99,129.99,12869.01
+2024-11-01,South,HM Joggers,Apparel,174,39.99,6958.26
+2024-11-01,South,Uniqlo Hoodie,Apparel,140,59.99,8398.6
+2024-11-01,South,Gap Chinos,Apparel,112,79.99,8958.88
+2024-11-01,East,Nike Air Max,Footwear,183,149.99,27448.17
+2024-11-01,East,Adidas Ultraboost,Footwear,147,189.99,27928.53
+2024-11-01,East,Puma RS-X,Footwear,94,109.99,10339.06
+2024-11-01,East,Reebok Classic,Footwear,17,89.99,1529.83
+2024-11-01,East,New Balance 990,Footwear,39,174.99,6824.61
+2024-11-01,East,Levis 501,Apparel,76,69.99,5319.24
+2024-11-01,East,Zara Blazer,Apparel,55,129.99,7149.45
+2024-11-01,East,HM Joggers,Apparel,158,39.99,6318.42
+2024-11-01,East,Uniqlo Hoodie,Apparel,77,59.99,4619.23
+2024-11-01,East,Gap Chinos,Apparel,19,79.99,1519.81
+2024-11-01,West,Nike Air Max,Footwear,37,149.99,5549.63
+2024-11-01,West,Adidas Ultraboost,Footwear,162,189.99,30778.38
+2024-11-01,West,Puma RS-X,Footwear,121,109.99,13308.79
+2024-11-01,West,Reebok Classic,Footwear,98,89.99,8819.02
+2024-11-01,West,New Balance 990,Footwear,196,174.99,34298.04
+2024-11-01,West,Levis 501,Apparel,90,69.99,6299.1
+2024-11-01,West,Zara Blazer,Apparel,121,129.99,15728.79
+2024-11-01,West,HM Joggers,Apparel,165,39.99,6598.35
+2024-11-01,West,Uniqlo Hoodie,Apparel,140,59.99,8398.6
+2024-11-01,West,Gap Chinos,Apparel,39,79.99,3119.61
+2024-11-01,Central,Nike Air Max,Footwear,108,149.99,16198.92
+2024-11-01,Central,Adidas Ultraboost,Footwear,157,189.99,29828.43
+2024-11-01,Central,Puma RS-X,Footwear,58,109.99,6379.42
+2024-11-01,Central,Reebok Classic,Footwear,75,89.99,6749.25
+2024-11-01,Central,New Balance 990,Footwear,21,174.99,3674.79
+2024-11-01,Central,Levis 501,Apparel,191,69.99,13368.09
+2024-11-01,Central,Zara Blazer,Apparel,121,129.99,15728.79
+2024-11-01,Central,HM Joggers,Apparel,10,39.99,399.9
+2024-11-01,Central,Uniqlo Hoodie,Apparel,143,59.99,8578.57
+2024-11-01,Central,Gap Chinos,Apparel,147,79.99,11758.53
+2024-12-01,North,Nike Air Max,Footwear,185,149.99,27748.15
+2024-12-01,North,Adidas Ultraboost,Footwear,194,189.99,36858.06
+2024-12-01,North,Puma RS-X,Footwear,199,109.99,21888.01
+2024-12-01,North,Reebok Classic,Footwear,198,89.99,17818.02
+2024-12-01,North,New Balance 990,Footwear,181,174.99,31673.19
+2024-12-01,North,Levis 501,Apparel,60,69.99,4199.4
+2024-12-01,North,Zara Blazer,Apparel,103,129.99,13388.97
+2024-12-01,North,HM Joggers,Apparel,120,39.99,4798.8
+2024-12-01,North,Uniqlo Hoodie,Apparel,27,59.99,1619.73
+2024-12-01,North,Gap Chinos,Apparel,180,79.99,14398.2
+2024-12-01,South,Nike Air Max,Footwear,94,149.99,14099.06
+2024-12-01,South,Adidas Ultraboost,Footwear,169,189.99,32108.31
+2024-12-01,South,Puma RS-X,Footwear,90,109.99,9899.1
+2024-12-01,South,Reebok Classic,Footwear,179,89.99,16108.21
+2024-12-01,South,New Balance 990,Footwear,41,174.99,7174.59
+2024-12-01,South,Levis 501,Apparel,194,69.99,13578.06
+2024-12-01,South,Zara Blazer,Apparel,86,129.99,11179.14
+2024-12-01,South,HM Joggers,Apparel,139,39.99,5558.61
+2024-12-01,South,Uniqlo Hoodie,Apparel,89,59.99,5339.11
+2024-12-01,South,Gap Chinos,Apparel,180,79.99,14398.2
+2024-12-01,East,Nike Air Max,Footwear,114,149.99,17098.86
+2024-12-01,East,Adidas Ultraboost,Footwear,93,189.99,17669.07
+2024-12-01,East,Puma RS-X,Footwear,113,109.99,12428.87
+2024-12-01,East,Reebok Classic,Footwear,188,89.99,16918.12
+2024-12-01,East,New Balance 990,Footwear,85,174.99,14874.15
+2024-12-01,East,Levis 501,Apparel,151,69.99,10568.49
+2024-12-01,East,Zara Blazer,Apparel,42,129.99,5459.58
+2024-12-01,East,HM Joggers,Apparel,59,39.99,2359.41
+2024-12-01,East,Uniqlo Hoodie,Apparel,117,59.99,7018.83
+2024-12-01,East,Gap Chinos,Apparel,180,79.99,14398.2
+2024-12-01,West,Nike Air Max,Footwear,107,149.99,16048.93
+2024-12-01,West,Adidas Ultraboost,Footwear,183,189.99,34768.17
+2024-12-01,West,Puma RS-X,Footwear,54,109.99,5939.46
+2024-12-01,West,Reebok Classic,Footwear,167,89.99,15028.33
+2024-12-01,West,New Balance 990,Footwear,155,174.99,27123.45
+2024-12-01,West,Levis 501,Apparel,87,69.99,6089.13
+2024-12-01,West,Zara Blazer,Apparel,113,129.99,14688.87
+2024-12-01,West,HM Joggers,Apparel,150,39.99,5998.5
+2024-12-01,West,Uniqlo Hoodie,Apparel,10,59.99,599.9
+2024-12-01,West,Gap Chinos,Apparel,87,79.99,6959.13
+2024-12-01,Central,Nike Air Max,Footwear,83,149.99,12449.17
+2024-12-01,Central,Adidas Ultraboost,Footwear,63,189.99,11969.37
+2024-12-01,Central,Puma RS-X,Footwear,120,109.99,13198.8
+2024-12-01,Central,Reebok Classic,Footwear,158,89.99,14218.42
+2024-12-01,Central,New Balance 990,Footwear,165,174.99,28873.35
+2024-12-01,Central,Levis 501,Apparel,177,69.99,12388.23
+2024-12-01,Central,Zara Blazer,Apparel,92,129.99,11959.08
+2024-12-01,Central,HM Joggers,Apparel,129,39.99,5158.71
+2024-12-01,Central,Uniqlo Hoodie,Apparel,123,59.99,7378.77
+2024-12-01,Central,Gap Chinos,Apparel,123,79.99,9838.77
+2025-01-01,North,Nike Air Max,Footwear,182,149.99,27298.18
+2025-01-01,North,Adidas Ultraboost,Footwear,64,189.99,12159.36
+2025-01-01,North,Puma RS-X,Footwear,140,109.99,15398.6
+2025-01-01,North,Reebok Classic,Footwear,131,89.99,11788.69
+2025-01-01,North,New Balance 990,Footwear,198,174.99,34648.02
+2025-01-01,North,Levis 501,Apparel,53,69.99,3709.47
+2025-01-01,North,Zara Blazer,Apparel,178,129.99,23138.22
+2025-01-01,North,HM Joggers,Apparel,31,39.99,1239.69
+2025-01-01,North,Uniqlo Hoodie,Apparel,82,59.99,4919.18
+2025-01-01,North,Gap Chinos,Apparel,141,79.99,11278.59
+2025-01-01,South,Nike Air Max,Footwear,179,149.99,26848.21
+2025-01-01,South,Adidas Ultraboost,Footwear,172,189.99,32678.28
+2025-01-01,South,Puma RS-X,Footwear,168,109.99,18478.32
+2025-01-01,South,Reebok Classic,Footwear,95,89.99,8549.05
+2025-01-01,South,New Balance 990,Footwear,33,174.99,5774.67
+2025-01-01,South,Levis 501,Apparel,70,69.99,4899.3
+2025-01-01,South,Zara Blazer,Apparel,182,129.99,23658.18
+2025-01-01,South,HM Joggers,Apparel,89,39.99,3559.11
+2025-01-01,South,Uniqlo Hoodie,Apparel,67,59.99,4019.33
+2025-01-01,South,Gap Chinos,Apparel,60,79.99,4799.4
+2025-01-01,East,Nike Air Max,Footwear,47,149.99,7049.53
+2025-01-01,East,Adidas Ultraboost,Footwear,16,189.99,3039.84
+2025-01-01,East,Puma RS-X,Footwear,21,109.99,2309.79
+2025-01-01,East,Reebok Classic,Footwear,72,89.99,6479.28
+2025-01-01,East,New Balance 990,Footwear,131,174.99,22923.69
+2025-01-01,East,Levis 501,Apparel,166,69.99,11618.34
+2025-01-01,East,Zara Blazer,Apparel,28,129.99,3639.72
+2025-01-01,East,HM Joggers,Apparel,126,39.99,5038.74
+2025-01-01,East,Uniqlo Hoodie,Apparel,116,59.99,6958.84
+2025-01-01,East,Gap Chinos,Apparel,171,79.99,13678.29
+2025-01-01,West,Nike Air Max,Footwear,157,149.99,23548.43
+2025-01-01,West,Adidas Ultraboost,Footwear,59,189.99,11209.41
+2025-01-01,West,Puma RS-X,Footwear,193,109.99,21228.07
+2025-01-01,West,Reebok Classic,Footwear,188,89.99,16918.12
+2025-01-01,West,New Balance 990,Footwear,108,174.99,18898.92
+2025-01-01,West,Levis 501,Apparel,136,69.99,9518.64
+2025-01-01,West,Zara Blazer,Apparel,112,129.99,14558.88
+2025-01-01,West,HM Joggers,Apparel,72,39.99,2879.28
+2025-01-01,West,Uniqlo Hoodie,Apparel,47,59.99,2819.53
+2025-01-01,West,Gap Chinos,Apparel,177,79.99,14158.23
+2025-01-01,Central,Nike Air Max,Footwear,186,149.99,27898.14
+2025-01-01,Central,Adidas Ultraboost,Footwear,11,189.99,2089.89
+2025-01-01,Central,Puma RS-X,Footwear,37,109.99,4069.63
+2025-01-01,Central,Reebok Classic,Footwear,118,89.99,10618.82
+2025-01-01,Central,New Balance 990,Footwear,66,174.99,11549.34
+2025-01-01,Central,Levis 501,Apparel,55,69.99,3849.45
+2025-01-01,Central,Zara Blazer,Apparel,188,129.99,24438.12
+2025-01-01,Central,HM Joggers,Apparel,142,39.99,5678.58
+2025-01-01,Central,Uniqlo Hoodie,Apparel,128,59.99,7678.72
+2025-01-01,Central,Gap Chinos,Apparel,22,79.99,1759.78
+2025-02-01,North,Nike Air Max,Footwear,152,149.99,22798.48
+2025-02-01,North,Adidas Ultraboost,Footwear,73,189.99,13869.27
+2025-02-01,North,Puma RS-X,Footwear,41,109.99,4509.59
+2025-02-01,North,Reebok Classic,Footwear,126,89.99,11338.74
+2025-02-01,North,New Balance 990,Footwear,44,174.99,7699.56
+2025-02-01,North,Levis 501,Apparel,128,69.99,8958.72
+2025-02-01,North,Zara Blazer,Apparel,180,129.99,23398.2
+2025-02-01,North,HM Joggers,Apparel,145,39.99,5798.55
+2025-02-01,North,Uniqlo Hoodie,Apparel,153,59.99,9178.47
+2025-02-01,North,Gap Chinos,Apparel,162,79.99,12958.38
+2025-02-01,South,Nike Air Max,Footwear,91,149.99,13649.09
+2025-02-01,South,Adidas Ultraboost,Footwear,123,189.99,23368.77
+2025-02-01,South,Puma RS-X,Footwear,166,109.99,18258.34
+2025-02-01,South,Reebok Classic,Footwear,194,89.99,17458.06
+2025-02-01,South,New Balance 990,Footwear,139,174.99,24323.61
+2025-02-01,South,Levis 501,Apparel,119,69.99,8328.81
+2025-02-01,South,Zara Blazer,Apparel,150,129.99,19498.5
+2025-02-01,South,HM Joggers,Apparel,124,39.99,4958.76
+2025-02-01,South,Uniqlo Hoodie,Apparel,50,59.99,2999.5
+2025-02-01,South,Gap Chinos,Apparel,200,79.99,15998.0
+2025-02-01,East,Nike Air Max,Footwear,131,149.99,19648.69
+2025-02-01,East,Adidas Ultraboost,Footwear,125,189.99,23748.75
+2025-02-01,East,Puma RS-X,Footwear,76,109.99,8359.24
+2025-02-01,East,Reebok Classic,Footwear,73,89.99,6569.27
+2025-02-01,East,New Balance 990,Footwear,173,174.99,30273.27
+2025-02-01,East,Levis 501,Apparel,80,69.99,5599.2
+2025-02-01,East,Zara Blazer,Apparel,143,129.99,18588.57
+2025-02-01,East,HM Joggers,Apparel,134,39.99,5358.66
+2025-02-01,East,Uniqlo Hoodie,Apparel,170,59.99,10198.3
+2025-02-01,East,Gap Chinos,Apparel,71,79.99,5679.29
+2025-02-01,West,Nike Air Max,Footwear,80,149.99,11999.2
+2025-02-01,West,Adidas Ultraboost,Footwear,122,189.99,23178.78
+2025-02-01,West,Puma RS-X,Footwear,29,109.99,3189.71
+2025-02-01,West,Reebok Classic,Footwear,192,89.99,17278.08
+2025-02-01,West,New Balance 990,Footwear,83,174.99,14524.17
+2025-02-01,West,Levis 501,Apparel,70,69.99,4899.3
+2025-02-01,West,Zara Blazer,Apparel,79,129.99,10269.21
+2025-02-01,West,HM Joggers,Apparel,95,39.99,3799.05
+2025-02-01,West,Uniqlo Hoodie,Apparel,91,59.99,5459.09
+2025-02-01,West,Gap Chinos,Apparel,148,79.99,11838.52
+2025-02-01,Central,Nike Air Max,Footwear,30,149.99,4499.7
+2025-02-01,Central,Adidas Ultraboost,Footwear,45,189.99,8549.55
+2025-02-01,Central,Puma RS-X,Footwear,48,109.99,5279.52
+2025-02-01,Central,Reebok Classic,Footwear,69,89.99,6209.31
+2025-02-01,Central,New Balance 990,Footwear,108,174.99,18898.92
+2025-02-01,Central,Levis 501,Apparel,187,69.99,13088.13
+2025-02-01,Central,Zara Blazer,Apparel,49,129.99,6369.51
+2025-02-01,Central,HM Joggers,Apparel,190,39.99,7598.1
+2025-02-01,Central,Uniqlo Hoodie,Apparel,64,59.99,3839.36
+2025-02-01,Central,Gap Chinos,Apparel,26,79.99,2079.74
+2025-03-01,North,Nike Air Max,Footwear,116,149.99,17398.84
+2025-03-01,North,Adidas Ultraboost,Footwear,114,189.99,21658.86
+2025-03-01,North,Puma RS-X,Footwear,94,109.99,10339.06
+2025-03-01,North,Reebok Classic,Footwear,148,89.99,13318.52
+2025-03-01,North,New Balance 990,Footwear,129,174.99,22573.71
+2025-03-01,North,Levis 501,Apparel,116,69.99,8118.84
+2025-03-01,North,Zara Blazer,Apparel,25,129.99,3249.75
+2025-03-01,North,HM Joggers,Apparel,62,39.99,2479.38
+2025-03-01,North,Uniqlo Hoodie,Apparel,117,59.99,7018.83
+2025-03-01,North,Gap Chinos,Apparel,109,79.99,8718.91
+2025-03-01,South,Nike Air Max,Footwear,159,149.99,23848.41
+2025-03-01,South,Adidas Ultraboost,Footwear,188,189.99,35718.12
+2025-03-01,South,Puma RS-X,Footwear,15,109.99,1649.85
+2025-03-01,South,Reebok Classic,Footwear,157,89.99,14128.43
+2025-03-01,South,New Balance 990,Footwear,107,174.99,18723.93
+2025-03-01,South,Levis 501,Apparel,132,69.99,9238.68
+2025-03-01,South,Zara Blazer,Apparel,11,129.99,1429.89
+2025-03-01,South,HM Joggers,Apparel,100,39.99,3999.0
+2025-03-01,South,Uniqlo Hoodie,Apparel,86,59.99,5159.14
+2025-03-01,South,Gap Chinos,Apparel,109,79.99,8718.91
+2025-03-01,East,Nike Air Max,Footwear,117,149.99,17548.83
+2025-03-01,East,Adidas Ultraboost,Footwear,147,189.99,27928.53
+2025-03-01,East,Puma RS-X,Footwear,198,109.99,21778.02
+2025-03-01,East,Reebok Classic,Footwear,149,89.99,13408.51
+2025-03-01,East,New Balance 990,Footwear,164,174.99,28698.36
+2025-03-01,East,Levis 501,Apparel,66,69.99,4619.34
+2025-03-01,East,Zara Blazer,Apparel,134,129.99,17418.66
+2025-03-01,East,HM Joggers,Apparel,66,39.99,2639.34
+2025-03-01,East,Uniqlo Hoodie,Apparel,79,59.99,4739.21
+2025-03-01,East,Gap Chinos,Apparel,121,79.99,9678.79
+2025-03-01,West,Nike Air Max,Footwear,134,149.99,20098.66
+2025-03-01,West,Adidas Ultraboost,Footwear,17,189.99,3229.83
+2025-03-01,West,Puma RS-X,Footwear,109,109.99,11988.91
+2025-03-01,West,Reebok Classic,Footwear,96,89.99,8639.04
+2025-03-01,West,New Balance 990,Footwear,181,174.99,31673.19
+2025-03-01,West,Levis 501,Apparel,183,69.99,12808.17
+2025-03-01,West,Zara Blazer,Apparel,113,129.99,14688.87
+2025-03-01,West,HM Joggers,Apparel,195,39.99,7798.05
+2025-03-01,West,Uniqlo Hoodie,Apparel,52,59.99,3119.48
+2025-03-01,West,Gap Chinos,Apparel,129,79.99,10318.71
+2025-03-01,Central,Nike Air Max,Footwear,42,149.99,6299.58
+2025-03-01,Central,Adidas Ultraboost,Footwear,169,189.99,32108.31
+2025-03-01,Central,Puma RS-X,Footwear,146,109.99,16058.54
+2025-03-01,Central,Reebok Classic,Footwear,16,89.99,1439.84
+2025-03-01,Central,New Balance 990,Footwear,110,174.99,19248.9
+2025-03-01,Central,Levis 501,Apparel,161,69.99,11268.39
+2025-03-01,Central,Zara Blazer,Apparel,154,129.99,20018.46
+2025-03-01,Central,HM Joggers,Apparel,179,39.99,7158.21
+2025-03-01,Central,Uniqlo Hoodie,Apparel,16,59.99,959.84
+2025-03-01,Central,Gap Chinos,Apparel,31,79.99,2479.69
+2025-04-01,North,Nike Air Max,Footwear,174,149.99,26098.26
+2025-04-01,North,Adidas Ultraboost,Footwear,119,189.99,22608.81
+2025-04-01,North,Puma RS-X,Footwear,44,109.99,4839.56
+2025-04-01,North,Reebok Classic,Footwear,128,89.99,11518.72
+2025-04-01,North,New Balance 990,Footwear,56,174.99,9799.44
+2025-04-01,North,Levis 501,Apparel,22,69.99,1539.78
+2025-04-01,North,Zara Blazer,Apparel,76,129.99,9879.24
+2025-04-01,North,HM Joggers,Apparel,107,39.99,4278.93
+2025-04-01,North,Uniqlo Hoodie,Apparel,93,59.99,5579.07
+2025-04-01,North,Gap Chinos,Apparel,64,79.99,5119.36
+2025-04-01,South,Nike Air Max,Footwear,126,149.99,18898.74
+2025-04-01,South,Adidas Ultraboost,Footwear,93,189.99,17669.07
+2025-04-01,South,Puma RS-X,Footwear,96,109.99,10559.04
+2025-04-01,South,Reebok Classic,Footwear,107,89.99,9628.93
+2025-04-01,South,New Balance 990,Footwear,81,174.99,14174.19
+2025-04-01,South,Levis 501,Apparel,117,69.99,8188.83
+2025-04-01,South,Zara Blazer,Apparel,74,129.99,9619.26
+2025-04-01,South,HM Joggers,Apparel,30,39.99,1199.7
+2025-04-01,South,Uniqlo Hoodie,Apparel,130,59.99,7798.7
+2025-04-01,South,Gap Chinos,Apparel,14,79.99,1119.86
+2025-04-01,East,Nike Air Max,Footwear,148,149.99,22198.52
+2025-04-01,East,Adidas Ultraboost,Footwear,23,189.99,4369.77
+2025-04-01,East,Puma RS-X,Footwear,99,109.99,10889.01
+2025-04-01,East,Reebok Classic,Footwear,67,89.99,6029.33
+2025-04-01,East,New Balance 990,Footwear,176,174.99,30798.24
+2025-04-01,East,Levis 501,Apparel,27,69.99,1889.73
+2025-04-01,East,Zara Blazer,Apparel,176,129.99,22878.24
+2025-04-01,East,HM Joggers,Apparel,20,39.99,799.8
+2025-04-01,East,Uniqlo Hoodie,Apparel,17,59.99,1019.83
+2025-04-01,East,Gap Chinos,Apparel,73,79.99,5839.27
+2025-04-01,West,Nike Air Max,Footwear,61,149.99,9149.39
+2025-04-01,West,Adidas Ultraboost,Footwear,15,189.99,2849.85
+2025-04-01,West,Puma RS-X,Footwear,169,109.99,18588.31
+2025-04-01,West,Reebok Classic,Footwear,49,89.99,4409.51
+2025-04-01,West,New Balance 990,Footwear,71,174.99,12424.29
+2025-04-01,West,Levis 501,Apparel,42,69.99,2939.58
+2025-04-01,West,Zara Blazer,Apparel,131,129.99,17028.69
+2025-04-01,West,HM Joggers,Apparel,181,39.99,7238.19
+2025-04-01,West,Uniqlo Hoodie,Apparel,39,59.99,2339.61
+2025-04-01,West,Gap Chinos,Apparel,154,79.99,12318.46
+2025-04-01,Central,Nike Air Max,Footwear,65,149.99,9749.35
+2025-04-01,Central,Adidas Ultraboost,Footwear,129,189.99,24508.71
+2025-04-01,Central,Puma RS-X,Footwear,189,109.99,20788.11
+2025-04-01,Central,Reebok Classic,Footwear,75,89.99,6749.25
+2025-04-01,Central,New Balance 990,Footwear,104,174.99,18198.96
+2025-04-01,Central,Levis 501,Apparel,52,69.99,3639.48
+2025-04-01,Central,Zara Blazer,Apparel,165,129.99,21448.35
+2025-04-01,Central,HM Joggers,Apparel,165,39.99,6598.35
+2025-04-01,Central,Uniqlo Hoodie,Apparel,193,59.99,11578.07
+2025-04-01,Central,Gap Chinos,Apparel,39,79.99,3119.61
+2025-05-01,North,Nike Air Max,Footwear,51,149.99,7649.49
+2025-05-01,North,Adidas Ultraboost,Footwear,89,189.99,16909.11
+2025-05-01,North,Puma RS-X,Footwear,37,109.99,4069.63
+2025-05-01,North,Reebok Classic,Footwear,158,89.99,14218.42
+2025-05-01,North,New Balance 990,Footwear,16,174.99,2799.84
+2025-05-01,North,Levis 501,Apparel,89,69.99,6229.11
+2025-05-01,North,Zara Blazer,Apparel,157,129.99,20408.43
+2025-05-01,North,HM Joggers,Apparel,183,39.99,7318.17
+2025-05-01,North,Uniqlo Hoodie,Apparel,106,59.99,6358.94
+2025-05-01,North,Gap Chinos,Apparel,111,79.99,8878.89
+2025-05-01,South,Nike Air Max,Footwear,193,149.99,28948.07
+2025-05-01,South,Adidas Ultraboost,Footwear,60,189.99,11399.4
+2025-05-01,South,Puma RS-X,Footwear,29,109.99,3189.71
+2025-05-01,South,Reebok Classic,Footwear,161,89.99,14488.39
+2025-05-01,South,New Balance 990,Footwear,186,174.99,32548.14
+2025-05-01,South,Levis 501,Apparel,170,69.99,11898.3
+2025-05-01,South,Zara Blazer,Apparel,72,129.99,9359.28
+2025-05-01,South,HM Joggers,Apparel,36,39.99,1439.64
+2025-05-01,South,Uniqlo Hoodie,Apparel,188,59.99,11278.12
+2025-05-01,South,Gap Chinos,Apparel,87,79.99,6959.13
+2025-05-01,East,Nike Air Max,Footwear,185,149.99,27748.15
+2025-05-01,East,Adidas Ultraboost,Footwear,163,189.99,30968.37
+2025-05-01,East,Puma RS-X,Footwear,40,109.99,4399.6
+2025-05-01,East,Reebok Classic,Footwear,154,89.99,13858.46
+2025-05-01,East,New Balance 990,Footwear,20,174.99,3499.8
+2025-05-01,East,Levis 501,Apparel,98,69.99,6859.02
+2025-05-01,East,Zara Blazer,Apparel,146,129.99,18978.54
+2025-05-01,East,HM Joggers,Apparel,119,39.99,4758.81
+2025-05-01,East,Uniqlo Hoodie,Apparel,179,59.99,10738.21
+2025-05-01,East,Gap Chinos,Apparel,104,79.99,8318.96
+2025-05-01,West,Nike Air Max,Footwear,27,149.99,4049.73
+2025-05-01,West,Adidas Ultraboost,Footwear,139,189.99,26408.61
+2025-05-01,West,Puma RS-X,Footwear,175,109.99,19248.25
+2025-05-01,West,Reebok Classic,Footwear,97,89.99,8729.03
+2025-05-01,West,New Balance 990,Footwear,13,174.99,2274.87
+2025-05-01,West,Levis 501,Apparel,117,69.99,8188.83
+2025-05-01,West,Zara Blazer,Apparel,135,129.99,17548.65
+2025-05-01,West,HM Joggers,Apparel,37,39.99,1479.63
+2025-05-01,West,Uniqlo Hoodie,Apparel,120,59.99,7198.8
+2025-05-01,West,Gap Chinos,Apparel,102,79.99,8158.98
+2025-05-01,Central,Nike Air Max,Footwear,172,149.99,25798.28
+2025-05-01,Central,Adidas Ultraboost,Footwear,127,189.99,24128.73
+2025-05-01,Central,Puma RS-X,Footwear,191,109.99,21008.09
+2025-05-01,Central,Reebok Classic,Footwear,49,89.99,4409.51
+2025-05-01,Central,New Balance 990,Footwear,121,174.99,21173.79
+2025-05-01,Central,Levis 501,Apparel,55,69.99,3849.45
+2025-05-01,Central,Zara Blazer,Apparel,197,129.99,25608.03
+2025-05-01,Central,HM Joggers,Apparel,143,39.99,5718.57
+2025-05-01,Central,Uniqlo Hoodie,Apparel,176,59.99,10558.24
+2025-05-01,Central,Gap Chinos,Apparel,79,79.99,6319.21
+2025-06-01,North,Nike Air Max,Footwear,167,149.99,25048.33
+2025-06-01,North,Adidas Ultraboost,Footwear,147,189.99,27928.53
+2025-06-01,North,Puma RS-X,Footwear,133,109.99,14628.67
+2025-06-01,North,Reebok Classic,Footwear,129,89.99,11608.71
+2025-06-01,North,New Balance 990,Footwear,121,174.99,21173.79
+2025-06-01,North,Levis 501,Apparel,197,69.99,13788.03
+2025-06-01,North,Zara Blazer,Apparel,161,129.99,20928.39
+2025-06-01,North,HM Joggers,Apparel,78,39.99,3119.22
+2025-06-01,North,Uniqlo Hoodie,Apparel,92,59.99,5519.08
+2025-06-01,North,Gap Chinos,Apparel,72,79.99,5759.28
+2025-06-01,South,Nike Air Max,Footwear,32,149.99,4799.68
+2025-06-01,South,Adidas Ultraboost,Footwear,81,189.99,15389.19
+2025-06-01,South,Puma RS-X,Footwear,125,109.99,13748.75
+2025-06-01,South,Reebok Classic,Footwear,72,89.99,6479.28
+2025-06-01,South,New Balance 990,Footwear,128,174.99,22398.72
+2025-06-01,South,Levis 501,Apparel,155,69.99,10848.45
+2025-06-01,South,Zara Blazer,Apparel,166,129.99,21578.34
+2025-06-01,South,HM Joggers,Apparel,181,39.99,7238.19
+2025-06-01,South,Uniqlo Hoodie,Apparel,107,59.99,6418.93
+2025-06-01,South,Gap Chinos,Apparel,96,79.99,7679.04
+2025-06-01,East,Nike Air Max,Footwear,17,149.99,2549.83
+2025-06-01,East,Adidas Ultraboost,Footwear,136,189.99,25838.64
+2025-06-01,East,Puma RS-X,Footwear,93,109.99,10229.07
+2025-06-01,East,Reebok Classic,Footwear,56,89.99,5039.44
+2025-06-01,East,New Balance 990,Footwear,134,174.99,23448.66
+2025-06-01,East,Levis 501,Apparel,64,69.99,4479.36
+2025-06-01,East,Zara Blazer,Apparel,100,129.99,12999.0
+2025-06-01,East,HM Joggers,Apparel,76,39.99,3039.24
+2025-06-01,East,Uniqlo Hoodie,Apparel,97,59.99,5819.03
+2025-06-01,East,Gap Chinos,Apparel,81,79.99,6479.19
+2025-06-01,West,Nike Air Max,Footwear,162,149.99,24298.38
+2025-06-01,West,Adidas Ultraboost,Footwear,189,189.99,35908.11
+2025-06-01,West,Puma RS-X,Footwear,80,109.99,8799.2
+2025-06-01,West,Reebok Classic,Footwear,152,89.99,13678.48
+2025-06-01,West,New Balance 990,Footwear,12,174.99,2099.88
+2025-06-01,West,Levis 501,Apparel,142,69.99,9938.58
+2025-06-01,West,Zara Blazer,Apparel,58,129.99,7539.42
+2025-06-01,West,HM Joggers,Apparel,31,39.99,1239.69
+2025-06-01,West,Uniqlo Hoodie,Apparel,71,59.99,4259.29
+2025-06-01,West,Gap Chinos,Apparel,194,79.99,15518.06
+2025-06-01,Central,Nike Air Max,Footwear,114,149.99,17098.86
+2025-06-01,Central,Adidas Ultraboost,Footwear,135,189.99,25648.65
+2025-06-01,Central,Puma RS-X,Footwear,152,109.99,16718.48
+2025-06-01,Central,Reebok Classic,Footwear,71,89.99,6389.29
+2025-06-01,Central,New Balance 990,Footwear,186,174.99,32548.14
+2025-06-01,Central,Levis 501,Apparel,131,69.99,9168.69
+2025-06-01,Central,Zara Blazer,Apparel,175,129.99,22748.25
+2025-06-01,Central,HM Joggers,Apparel,192,39.99,7678.08
+2025-06-01,Central,Uniqlo Hoodie,Apparel,135,59.99,8098.65
+2025-06-01,Central,Gap Chinos,Apparel,124,79.99,9918.76
+2025-07-01,North,Nike Air Max,Footwear,14,149.99,2099.86
+2025-07-01,North,Adidas Ultraboost,Footwear,33,189.99,6269.67
+2025-07-01,North,Puma RS-X,Footwear,85,109.99,9349.15
+2025-07-01,North,Reebok Classic,Footwear,66,89.99,5939.34
+2025-07-01,North,New Balance 990,Footwear,113,174.99,19773.87
+2025-07-01,North,Levis 501,Apparel,187,69.99,13088.13
+2025-07-01,North,Zara Blazer,Apparel,72,129.99,9359.28
+2025-07-01,North,HM Joggers,Apparel,88,39.99,3519.12
+2025-07-01,North,Uniqlo Hoodie,Apparel,179,59.99,10738.21
+2025-07-01,North,Gap Chinos,Apparel,158,79.99,12638.42
+2025-07-01,South,Nike Air Max,Footwear,104,149.99,15598.96
+2025-07-01,South,Adidas Ultraboost,Footwear,131,189.99,24888.69
+2025-07-01,South,Puma RS-X,Footwear,151,109.99,16608.49
+2025-07-01,South,Reebok Classic,Footwear,145,89.99,13048.55
+2025-07-01,South,New Balance 990,Footwear,98,174.99,17149.02
+2025-07-01,South,Levis 501,Apparel,118,69.99,8258.82
+2025-07-01,South,Zara Blazer,Apparel,200,129.99,25998.0
+2025-07-01,South,HM Joggers,Apparel,150,39.99,5998.5
+2025-07-01,South,Uniqlo Hoodie,Apparel,94,59.99,5639.06
+2025-07-01,South,Gap Chinos,Apparel,100,79.99,7999.0
+2025-07-01,East,Nike Air Max,Footwear,189,149.99,28348.11
+2025-07-01,East,Adidas Ultraboost,Footwear,126,189.99,23938.74
+2025-07-01,East,Puma RS-X,Footwear,79,109.99,8689.21
+2025-07-01,East,Reebok Classic,Footwear,88,89.99,7919.12
+2025-07-01,East,New Balance 990,Footwear,74,174.99,12949.26
+2025-07-01,East,Levis 501,Apparel,69,69.99,4829.31
+2025-07-01,East,Zara Blazer,Apparel,40,129.99,5199.6
+2025-07-01,East,HM Joggers,Apparel,194,39.99,7758.06
+2025-07-01,East,Uniqlo Hoodie,Apparel,59,59.99,3539.41
+2025-07-01,East,Gap Chinos,Apparel,90,79.99,7199.1
+2025-07-01,West,Nike Air Max,Footwear,40,149.99,5999.6
+2025-07-01,West,Adidas Ultraboost,Footwear,200,189.99,37998.0
+2025-07-01,West,Puma RS-X,Footwear,147,109.99,16168.53
+2025-07-01,West,Reebok Classic,Footwear,186,89.99,16738.14
+2025-07-01,West,New Balance 990,Footwear,57,174.99,9974.43
+2025-07-01,West,Levis 501,Apparel,59,69.99,4129.41
+2025-07-01,West,Zara Blazer,Apparel,65,129.99,8449.35
+2025-07-01,West,HM Joggers,Apparel,199,39.99,7958.01
+2025-07-01,West,Uniqlo Hoodie,Apparel,133,59.99,7978.67
+2025-07-01,West,Gap Chinos,Apparel,80,79.99,6399.2
+2025-07-01,Central,Nike Air Max,Footwear,195,149.99,29248.05
+2025-07-01,Central,Adidas Ultraboost,Footwear,160,189.99,30398.4
+2025-07-01,Central,Puma RS-X,Footwear,144,109.99,15838.56
+2025-07-01,Central,Reebok Classic,Footwear,162,89.99,14578.38
+2025-07-01,Central,New Balance 990,Footwear,82,174.99,14349.18
+2025-07-01,Central,Levis 501,Apparel,35,69.99,2449.65
+2025-07-01,Central,Zara Blazer,Apparel,59,129.99,7669.41
+2025-07-01,Central,HM Joggers,Apparel,85,39.99,3399.15
+2025-07-01,Central,Uniqlo Hoodie,Apparel,68,59.99,4079.32
+2025-07-01,Central,Gap Chinos,Apparel,102,79.99,8158.98
+2025-08-01,North,Nike Air Max,Footwear,55,149.99,8249.45
+2025-08-01,North,Adidas Ultraboost,Footwear,87,189.99,16529.13
+2025-08-01,North,Puma RS-X,Footwear,13,109.99,1429.87
+2025-08-01,North,Reebok Classic,Footwear,191,89.99,17188.09
+2025-08-01,North,New Balance 990,Footwear,146,174.99,25548.54
+2025-08-01,North,Levis 501,Apparel,42,69.99,2939.58
+2025-08-01,North,Zara Blazer,Apparel,80,129.99,10399.2
+2025-08-01,North,HM Joggers,Apparel,21,39.99,839.79
+2025-08-01,North,Uniqlo Hoodie,Apparel,23,59.99,1379.77
+2025-08-01,North,Gap Chinos,Apparel,151,79.99,12078.49
+2025-08-01,South,Nike Air Max,Footwear,84,149.99,12599.16
+2025-08-01,South,Adidas Ultraboost,Footwear,188,189.99,35718.12
+2025-08-01,South,Puma RS-X,Footwear,42,109.99,4619.58
+2025-08-01,South,Reebok Classic,Footwear,173,89.99,15568.27
+2025-08-01,South,New Balance 990,Footwear,135,174.99,23623.65
+2025-08-01,South,Levis 501,Apparel,36,69.99,2519.64
+2025-08-01,South,Zara Blazer,Apparel,13,129.99,1689.87
+2025-08-01,South,HM Joggers,Apparel,156,39.99,6238.44
+2025-08-01,South,Uniqlo Hoodie,Apparel,82,59.99,4919.18
+2025-08-01,South,Gap Chinos,Apparel,130,79.99,10398.7
+2025-08-01,East,Nike Air Max,Footwear,132,149.99,19798.68
+2025-08-01,East,Adidas Ultraboost,Footwear,122,189.99,23178.78
+2025-08-01,East,Puma RS-X,Footwear,97,109.99,10669.03
+2025-08-01,East,Reebok Classic,Footwear,57,89.99,5129.43
+2025-08-01,East,New Balance 990,Footwear,23,174.99,4024.77
+2025-08-01,East,Levis 501,Apparel,74,69.99,5179.26
+2025-08-01,East,Zara Blazer,Apparel,132,129.99,17158.68
+2025-08-01,East,HM Joggers,Apparel,39,39.99,1559.61
+2025-08-01,East,Uniqlo Hoodie,Apparel,26,59.99,1559.74
+2025-08-01,East,Gap Chinos,Apparel,112,79.99,8958.88
+2025-08-01,West,Nike Air Max,Footwear,135,149.99,20248.65
+2025-08-01,West,Adidas Ultraboost,Footwear,28,189.99,5319.72
+2025-08-01,West,Puma RS-X,Footwear,157,109.99,17268.43
+2025-08-01,West,Reebok Classic,Footwear,171,89.99,15388.29
+2025-08-01,West,New Balance 990,Footwear,185,174.99,32373.15
+2025-08-01,West,Levis 501,Apparel,23,69.99,1609.77
+2025-08-01,West,Zara Blazer,Apparel,48,129.99,6239.52
+2025-08-01,West,HM Joggers,Apparel,48,39.99,1919.52
+2025-08-01,West,Uniqlo Hoodie,Apparel,154,59.99,9238.46
+2025-08-01,West,Gap Chinos,Apparel,87,79.99,6959.13
+2025-08-01,Central,Nike Air Max,Footwear,31,149.99,4649.69
+2025-08-01,Central,Adidas Ultraboost,Footwear,73,189.99,13869.27
+2025-08-01,Central,Puma RS-X,Footwear,40,109.99,4399.6
+2025-08-01,Central,Reebok Classic,Footwear,152,89.99,13678.48
+2025-08-01,Central,New Balance 990,Footwear,116,174.99,20298.84
+2025-08-01,Central,Levis 501,Apparel,165,69.99,11548.35
+2025-08-01,Central,Zara Blazer,Apparel,162,129.99,21058.38
+2025-08-01,Central,HM Joggers,Apparel,168,39.99,6718.32
+2025-08-01,Central,Uniqlo Hoodie,Apparel,67,59.99,4019.33
+2025-08-01,Central,Gap Chinos,Apparel,143,79.99,11438.57
+2025-09-01,North,Nike Air Max,Footwear,107,149.99,16048.93
+2025-09-01,North,Adidas Ultraboost,Footwear,125,189.99,23748.75
+2025-09-01,North,Puma RS-X,Footwear,123,109.99,13528.77
+2025-09-01,North,Reebok Classic,Footwear,86,89.99,7739.14
+2025-09-01,North,New Balance 990,Footwear,160,174.99,27998.4
+2025-09-01,North,Levis 501,Apparel,119,69.99,8328.81
+2025-09-01,North,Zara Blazer,Apparel,88,129.99,11439.12
+2025-09-01,North,HM Joggers,Apparel,155,39.99,6198.45
+2025-09-01,North,Uniqlo Hoodie,Apparel,168,59.99,10078.32
+2025-09-01,North,Gap Chinos,Apparel,25,79.99,1999.75
+2025-09-01,South,Nike Air Max,Footwear,166,149.99,24898.34
+2025-09-01,South,Adidas Ultraboost,Footwear,199,189.99,37808.01
+2025-09-01,South,Puma RS-X,Footwear,35,109.99,3849.65
+2025-09-01,South,Reebok Classic,Footwear,63,89.99,5669.37
+2025-09-01,South,New Balance 990,Footwear,170,174.99,29748.3
+2025-09-01,South,Levis 501,Apparel,64,69.99,4479.36
+2025-09-01,South,Zara Blazer,Apparel,77,129.99,10009.23
+2025-09-01,South,HM Joggers,Apparel,179,39.99,7158.21
+2025-09-01,South,Uniqlo Hoodie,Apparel,30,59.99,1799.7
+2025-09-01,South,Gap Chinos,Apparel,50,79.99,3999.5
+2025-09-01,East,Nike Air Max,Footwear,71,149.99,10649.29
+2025-09-01,East,Adidas Ultraboost,Footwear,54,189.99,10259.46
+2025-09-01,East,Puma RS-X,Footwear,151,109.99,16608.49
+2025-09-01,East,Reebok Classic,Footwear,29,89.99,2609.71
+2025-09-01,East,New Balance 990,Footwear,50,174.99,8749.5
+2025-09-01,East,Levis 501,Apparel,10,69.99,699.9
+2025-09-01,East,Zara Blazer,Apparel,114,129.99,14818.86
+2025-09-01,East,HM Joggers,Apparel,125,39.99,4998.75
+2025-09-01,East,Uniqlo Hoodie,Apparel,186,59.99,11158.14
+2025-09-01,East,Gap Chinos,Apparel,162,79.99,12958.38
+2025-09-01,West,Nike Air Max,Footwear,130,149.99,19498.7
+2025-09-01,West,Adidas Ultraboost,Footwear,84,189.99,15959.16
+2025-09-01,West,Puma RS-X,Footwear,18,109.99,1979.82
+2025-09-01,West,Reebok Classic,Footwear,69,89.99,6209.31
+2025-09-01,West,New Balance 990,Footwear,83,174.99,14524.17
+2025-09-01,West,Levis 501,Apparel,190,69.99,13298.1
+2025-09-01,West,Zara Blazer,Apparel,82,129.99,10659.18
+2025-09-01,West,HM Joggers,Apparel,189,39.99,7558.11
+2025-09-01,West,Uniqlo Hoodie,Apparel,126,59.99,7558.74
+2025-09-01,West,Gap Chinos,Apparel,28,79.99,2239.72
+2025-09-01,Central,Nike Air Max,Footwear,185,149.99,27748.15
+2025-09-01,Central,Adidas Ultraboost,Footwear,69,189.99,13109.31
+2025-09-01,Central,Puma RS-X,Footwear,77,109.99,8469.23
+2025-09-01,Central,Reebok Classic,Footwear,170,89.99,15298.3
+2025-09-01,Central,New Balance 990,Footwear,160,174.99,27998.4
+2025-09-01,Central,Levis 501,Apparel,179,69.99,12528.21
+2025-09-01,Central,Zara Blazer,Apparel,60,129.99,7799.4
+2025-09-01,Central,HM Joggers,Apparel,118,39.99,4718.82
+2025-09-01,Central,Uniqlo Hoodie,Apparel,39,59.99,2339.61
+2025-09-01,Central,Gap Chinos,Apparel,149,79.99,11918.51
+2025-10-01,North,Nike Air Max,Footwear,67,149.99,10049.33
+2025-10-01,North,Adidas Ultraboost,Footwear,175,189.99,33248.25
+2025-10-01,North,Puma RS-X,Footwear,48,109.99,5279.52
+2025-10-01,North,Reebok Classic,Footwear,78,89.99,7019.22
+2025-10-01,North,New Balance 990,Footwear,46,174.99,8049.54
+2025-10-01,North,Levis 501,Apparel,28,69.99,1959.72
+2025-10-01,North,Zara Blazer,Apparel,25,129.99,3249.75
+2025-10-01,North,HM Joggers,Apparel,52,39.99,2079.48
+2025-10-01,North,Uniqlo Hoodie,Apparel,88,59.99,5279.12
+2025-10-01,North,Gap Chinos,Apparel,162,79.99,12958.38
+2025-10-01,South,Nike Air Max,Footwear,155,149.99,23248.45
+2025-10-01,South,Adidas Ultraboost,Footwear,83,189.99,15769.17
+2025-10-01,South,Puma RS-X,Footwear,122,109.99,13418.78
+2025-10-01,South,Reebok Classic,Footwear,41,89.99,3689.59
+2025-10-01,South,New Balance 990,Footwear,129,174.99,22573.71
+2025-10-01,South,Levis 501,Apparel,186,69.99,13018.14
+2025-10-01,South,Zara Blazer,Apparel,87,129.99,11309.13
+2025-10-01,South,HM Joggers,Apparel,189,39.99,7558.11
+2025-10-01,South,Uniqlo Hoodie,Apparel,113,59.99,6778.87
+2025-10-01,South,Gap Chinos,Apparel,79,79.99,6319.21
+2025-10-01,East,Nike Air Max,Footwear,138,149.99,20698.62
+2025-10-01,East,Adidas Ultraboost,Footwear,148,189.99,28118.52
+2025-10-01,East,Puma RS-X,Footwear,136,109.99,14958.64
+2025-10-01,East,Reebok Classic,Footwear,122,89.99,10978.78
+2025-10-01,East,New Balance 990,Footwear,30,174.99,5249.7
+2025-10-01,East,Levis 501,Apparel,163,69.99,11408.37
+2025-10-01,East,Zara Blazer,Apparel,20,129.99,2599.8
+2025-10-01,East,HM Joggers,Apparel,120,39.99,4798.8
+2025-10-01,East,Uniqlo Hoodie,Apparel,198,59.99,11878.02
+2025-10-01,East,Gap Chinos,Apparel,92,79.99,7359.08
+2025-10-01,West,Nike Air Max,Footwear,164,149.99,24598.36
+2025-10-01,West,Adidas Ultraboost,Footwear,74,189.99,14059.26
+2025-10-01,West,Puma RS-X,Footwear,16,109.99,1759.84
+2025-10-01,West,Reebok Classic,Footwear,33,89.99,2969.67
+2025-10-01,West,New Balance 990,Footwear,68,174.99,11899.32
+2025-10-01,West,Levis 501,Apparel,182,69.99,12738.18
+2025-10-01,West,Zara Blazer,Apparel,157,129.99,20408.43
+2025-10-01,West,HM Joggers,Apparel,160,39.99,6398.4
+2025-10-01,West,Uniqlo Hoodie,Apparel,15,59.99,899.85
+2025-10-01,West,Gap Chinos,Apparel,182,79.99,14558.18
+2025-10-01,Central,Nike Air Max,Footwear,78,149.99,11699.22
+2025-10-01,Central,Adidas Ultraboost,Footwear,157,189.99,29828.43
+2025-10-01,Central,Puma RS-X,Footwear,20,109.99,2199.8
+2025-10-01,Central,Reebok Classic,Footwear,54,89.99,4859.46
+2025-10-01,Central,New Balance 990,Footwear,130,174.99,22748.7
+2025-10-01,Central,Levis 501,Apparel,142,69.99,9938.58
+2025-10-01,Central,Zara Blazer,Apparel,176,129.99,22878.24
+2025-10-01,Central,HM Joggers,Apparel,123,39.99,4918.77
+2025-10-01,Central,Uniqlo Hoodie,Apparel,81,59.99,4859.19
+2025-10-01,Central,Gap Chinos,Apparel,56,79.99,4479.44
+2025-11-01,North,Nike Air Max,Footwear,159,149.99,23848.41
+2025-11-01,North,Adidas Ultraboost,Footwear,121,189.99,22988.79
+2025-11-01,North,Puma RS-X,Footwear,172,109.99,18918.28
+2025-11-01,North,Reebok Classic,Footwear,135,89.99,12148.65
+2025-11-01,North,New Balance 990,Footwear,33,174.99,5774.67
+2025-11-01,North,Levis 501,Apparel,130,69.99,9098.7
+2025-11-01,North,Zara Blazer,Apparel,99,129.99,12869.01
+2025-11-01,North,HM Joggers,Apparel,114,39.99,4558.86
+2025-11-01,North,Uniqlo Hoodie,Apparel,95,59.99,5699.05
+2025-11-01,North,Gap Chinos,Apparel,92,79.99,7359.08
+2025-11-01,South,Nike Air Max,Footwear,181,149.99,27148.19
+2025-11-01,South,Adidas Ultraboost,Footwear,36,189.99,6839.64
+2025-11-01,South,Puma RS-X,Footwear,51,109.99,5609.49
+2025-11-01,South,Reebok Classic,Footwear,94,89.99,8459.06
+2025-11-01,South,New Balance 990,Footwear,115,174.99,20123.85
+2025-11-01,South,Levis 501,Apparel,187,69.99,13088.13
+2025-11-01,South,Zara Blazer,Apparel,136,129.99,17678.64
+2025-11-01,South,HM Joggers,Apparel,83,39.99,3319.17
+2025-11-01,South,Uniqlo Hoodie,Apparel,179,59.99,10738.21
+2025-11-01,South,Gap Chinos,Apparel,112,79.99,8958.88
+2025-11-01,East,Nike Air Max,Footwear,150,149.99,22498.5
+2025-11-01,East,Adidas Ultraboost,Footwear,19,189.99,3609.81
+2025-11-01,East,Puma RS-X,Footwear,126,109.99,13858.74
+2025-11-01,East,Reebok Classic,Footwear,32,89.99,2879.68
+2025-11-01,East,New Balance 990,Footwear,90,174.99,15749.1
+2025-11-01,East,Levis 501,Apparel,74,69.99,5179.26
+2025-11-01,East,Zara Blazer,Apparel,92,129.99,11959.08
+2025-11-01,East,HM Joggers,Apparel,39,39.99,1559.61
+2025-11-01,East,Uniqlo Hoodie,Apparel,113,59.99,6778.87
+2025-11-01,East,Gap Chinos,Apparel,141,79.99,11278.59
+2025-11-01,West,Nike Air Max,Footwear,10,149.99,1499.9
+2025-11-01,West,Adidas Ultraboost,Footwear,178,189.99,33818.22
+2025-11-01,West,Puma RS-X,Footwear,148,109.99,16278.52
+2025-11-01,West,Reebok Classic,Footwear,128,89.99,11518.72
+2025-11-01,West,New Balance 990,Footwear,115,174.99,20123.85
+2025-11-01,West,Levis 501,Apparel,23,69.99,1609.77
+2025-11-01,West,Zara Blazer,Apparel,58,129.99,7539.42
+2025-11-01,West,HM Joggers,Apparel,142,39.99,5678.58
+2025-11-01,West,Uniqlo Hoodie,Apparel,102,59.99,6118.98
+2025-11-01,West,Gap Chinos,Apparel,169,79.99,13518.31
+2025-11-01,Central,Nike Air Max,Footwear,137,149.99,20548.63
+2025-11-01,Central,Adidas Ultraboost,Footwear,170,189.99,32298.3
+2025-11-01,Central,Puma RS-X,Footwear,123,109.99,13528.77
+2025-11-01,Central,Reebok Classic,Footwear,23,89.99,2069.77
+2025-11-01,Central,New Balance 990,Footwear,62,174.99,10849.38
+2025-11-01,Central,Levis 501,Apparel,78,69.99,5459.22
+2025-11-01,Central,Zara Blazer,Apparel,150,129.99,19498.5
+2025-11-01,Central,HM Joggers,Apparel,43,39.99,1719.57
+2025-11-01,Central,Uniqlo Hoodie,Apparel,83,59.99,4979.17
+2025-11-01,Central,Gap Chinos,Apparel,122,79.99,9758.78
+2025-12-01,North,Nike Air Max,Footwear,188,149.99,28198.12
+2025-12-01,North,Adidas Ultraboost,Footwear,134,189.99,25458.66
+2025-12-01,North,Puma RS-X,Footwear,41,109.99,4509.59
+2025-12-01,North,Reebok Classic,Footwear,17,89.99,1529.83
+2025-12-01,North,New Balance 990,Footwear,171,174.99,29923.29
+2025-12-01,North,Levis 501,Apparel,165,69.99,11548.35
+2025-12-01,North,Zara Blazer,Apparel,71,129.99,9229.29
+2025-12-01,North,HM Joggers,Apparel,191,39.99,7638.09
+2025-12-01,North,Uniqlo Hoodie,Apparel,50,59.99,2999.5
+2025-12-01,North,Gap Chinos,Apparel,89,79.99,7119.11
+2025-12-01,South,Nike Air Max,Footwear,151,149.99,22648.49
+2025-12-01,South,Adidas Ultraboost,Footwear,13,189.99,2469.87
+2025-12-01,South,Puma RS-X,Footwear,151,109.99,16608.49
+2025-12-01,South,Reebok Classic,Footwear,114,89.99,10258.86
+2025-12-01,South,New Balance 990,Footwear,33,174.99,5774.67
+2025-12-01,South,Levis 501,Apparel,67,69.99,4689.33
+2025-12-01,South,Zara Blazer,Apparel,39,129.99,5069.61
+2025-12-01,South,HM Joggers,Apparel,128,39.99,5118.72
+2025-12-01,South,Uniqlo Hoodie,Apparel,40,59.99,2399.6
+2025-12-01,South,Gap Chinos,Apparel,175,79.99,13998.25
+2025-12-01,East,Nike Air Max,Footwear,49,149.99,7349.51
+2025-12-01,East,Adidas Ultraboost,Footwear,137,189.99,26028.63
+2025-12-01,East,Puma RS-X,Footwear,193,109.99,21228.07
+2025-12-01,East,Reebok Classic,Footwear,84,89.99,7559.16
+2025-12-01,East,New Balance 990,Footwear,140,174.99,24498.6
+2025-12-01,East,Levis 501,Apparel,190,69.99,13298.1
+2025-12-01,East,Zara Blazer,Apparel,79,129.99,10269.21
+2025-12-01,East,HM Joggers,Apparel,116,39.99,4638.84
+2025-12-01,East,Uniqlo Hoodie,Apparel,133,59.99,7978.67
+2025-12-01,East,Gap Chinos,Apparel,130,79.99,10398.7
+2025-12-01,West,Nike Air Max,Footwear,72,149.99,10799.28
+2025-12-01,West,Adidas Ultraboost,Footwear,126,189.99,23938.74
+2025-12-01,West,Puma RS-X,Footwear,151,109.99,16608.49
+2025-12-01,West,Reebok Classic,Footwear,47,89.99,4229.53
+2025-12-01,West,New Balance 990,Footwear,108,174.99,18898.92
+2025-12-01,West,Levis 501,Apparel,58,69.99,4059.42
+2025-12-01,West,Zara Blazer,Apparel,163,129.99,21188.37
+2025-12-01,West,HM Joggers,Apparel,140,39.99,5598.6
+2025-12-01,West,Uniqlo Hoodie,Apparel,44,59.99,2639.56
+2025-12-01,West,Gap Chinos,Apparel,27,79.99,2159.73
+2025-12-01,Central,Nike Air Max,Footwear,80,149.99,11999.2
+2025-12-01,Central,Adidas Ultraboost,Footwear,116,189.99,22038.84
+2025-12-01,Central,Puma RS-X,Footwear,97,109.99,10669.03
+2025-12-01,Central,Reebok Classic,Footwear,139,89.99,12508.61
+2025-12-01,Central,New Balance 990,Footwear,78,174.99,13649.22
+2025-12-01,Central,Levis 501,Apparel,10,69.99,699.9
+2025-12-01,Central,Zara Blazer,Apparel,82,129.99,10659.18
+2025-12-01,Central,HM Joggers,Apparel,195,39.99,7798.05
+2025-12-01,Central,Uniqlo Hoodie,Apparel,86,59.99,5159.14
+2025-12-01,Central,Gap Chinos,Apparel,160,79.99,12798.4
