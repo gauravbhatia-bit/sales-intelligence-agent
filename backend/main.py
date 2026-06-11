@@ -1,4 +1,4 @@
-﻿import os, time, json
+import os, time, json
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -91,7 +91,7 @@ def run_agent(question: str) -> dict:
                 tool_result = TOOLS[tool_name](**tool_args)
                 tool_used = tool_name
                 followup = f"The user asked: {question}\nYou called tool {tool_name} and got: {json.dumps(tool_result)}\nProvide a clear business insight in 2-3 sentences with specific numbers."
-                final = model.generate_content(followup)
+                final = client.models.generate_content(model="gemini-2.0-flash", contents=followup)
                 answer = final.text.strip()
             else:
                 answer = raw
@@ -109,7 +109,7 @@ def root():
 
 @app.get("/status")
 def status():
-    return {"rows": len(df), "date_range": f"{df['date'].min().date()} to {df['date'].max().date()}", "llm": "gemini-1.5-flash"}
+    return {"rows": len(df), "date_range": f"{df['date'].min().date()} to {df['date'].max().date()}", "llm": "gemini-2.0-flash"}
 
 @app.post("/ask")
 def ask(req: QuestionRequest):
