@@ -1,0 +1,28 @@
+text,intent
+How much did we earn last year,total_revenue
+I need the complete revenue figure,total_revenue
+Total turnover for 2025 please,total_revenue
+What is the value of all sales,total_revenue
+Give me 2024 revenue,total_revenue
+How much were sales yesterday,total_revenue
+Revenue generated last month,total_revenue
+What are the top 10 items,top_products
+Identify our strongest product,top_products
+Order the products from best to worst,top_products
+Which products brought in the most money,top_products
+Product leaderboard for 2025,top_products
+Break sales down geographically,sales_by_region
+Which area is leading,sales_by_region
+Compare the East and West regions,sales_by_region
+Regional revenue leaderboard,sales_by_region
+Where did we make the most money,sales_by_region
+Show the sales timeline by month,monthly_trend
+How were sales distributed through the year,monthly_trend
+Find the peak sales month,monthly_trend
+Monthly movement in revenue for 2024,monthly_trend
+Graph the revenue trend,monthly_trend
+Break revenue down by product type,category_breakdown
+Which product category leads,category_breakdown
+Category sales comparison,category_breakdown
+How did Apparel perform,category_breakdown
+Revenue split between categories,category_breakdown

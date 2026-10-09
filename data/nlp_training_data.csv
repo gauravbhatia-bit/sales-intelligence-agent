@@ -1,0 +1,55 @@
+text,intent
+What is our total revenue,total_revenue
+How much revenue did we generate,total_revenue
+Give me overall sales revenue,total_revenue
+What was total revenue in 2025,total_revenue
+Tell me the revenue for 2024,total_revenue
+How much money did we make,total_revenue
+Show aggregate revenue,total_revenue
+What are total sales,total_revenue
+Revenue generated across all years,total_revenue
+Calculate the sales total,total_revenue
+How much sales did we generate yesterday,total_revenue
+What is today's revenue,total_revenue
+Show sales from last week,total_revenue
+How much did we earn last month,total_revenue
+Which products perform best,top_products
+Show the top five products,top_products
+What is our best selling product,top_products
+Rank products by revenue,top_products
+Give me the top 3 products in 2025,top_products
+Which item generated the most revenue,top_products
+List our highest earning products,top_products
+What products lead sales,top_products
+Show product performance ranking,top_products
+Which product made the most money,top_products
+Which region has the highest sales,sales_by_region
+Show revenue by region,sales_by_region
+Compare regional sales,sales_by_region
+How did the North perform,sales_by_region
+Give me the regional breakdown for 2025,sales_by_region
+Rank regions by revenue,sales_by_region
+Where are sales strongest,sales_by_region
+What is revenue in the West region,sales_by_region
+Show sales performance across locations,sales_by_region
+Which territory generated the most revenue,sales_by_region
+Show the monthly revenue trend,monthly_trend
+How have sales changed month by month,monthly_trend
+Give me monthly sales for 2025,monthly_trend
+Which month had the highest revenue,monthly_trend
+Plot revenue over the year,monthly_trend
+Show sales over time,monthly_trend
+What is the month on month trend,monthly_trend
+Display monthly performance,monthly_trend
+How did revenue evolve during 2024,monthly_trend
+Break down the year by month,monthly_trend
+Show revenue by category,category_breakdown
+Compare product categories,category_breakdown
+Which category performs best,category_breakdown
+Give me the category breakdown,category_breakdown
+How much revenue came from Footwear,category_breakdown
+Rank categories by sales,category_breakdown
+What is Apparel revenue,category_breakdown
+Show category performance for 2025,category_breakdown
+Which product group earns the most,category_breakdown
+Compare Footwear and Apparel sales,category_breakdown

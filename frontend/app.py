@@ -1,11 +1,12 @@
-﻿import streamlit as st
+﻿import os
+
+import streamlit as st
 import requests
 import plotly.express as px
-API = "http://localhost:8080"
+import pandas as pd
+API = os.getenv("BACKEND_URL", "http://localhost:8080").rstrip("/")
 
-API = "http://localhost:8080"
-
-st.set_page_config(page_title="Sales Intelligence Agent", page_icon="??", layout="wide")
+st.set_page_config(page_title="Sales Intelligence Agent", page_icon="📊", layout="wide")
 
 st.markdown('''
 <style>
@@ -16,8 +17,8 @@ st.markdown('''
 </style>
 ''', unsafe_allow_html=True)
 
-st.markdown('<div class="main-header">?? Sales Intelligence Agent</div>', unsafe_allow_html=True)
-st.markdown('<div class="sub-header">Powered by Gemini 1.5 Flash � Tool Calling � Pandas Analytics</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header">📊 Sales Intelligence Agent</div>', unsafe_allow_html=True)
+st.markdown('<div class="sub-header">Gemini tool routing · Pandas analytics</div>', unsafe_allow_html=True)
 
 try:
     summary = requests.get(f"{API}/summary", timeout=5).json()
@@ -26,8 +27,8 @@ try:
     col2.metric("Total Units Sold", f"{summary['total_units']:,}")
     col3.metric("Top Product", summary['top_product'])
     col4.metric("Top Region", summary['top_region'])
-except:
-    st.warning("Backend not running. Start with: uvicorn backend.main:app --reload")
+except requests.RequestException:
+    st.warning("Backend not running. Start with: python -m uvicorn backend.main:app --port 8080 --reload")
 
 st.divider()
 st.subheader("Ask the Agent")
@@ -52,7 +53,9 @@ question = st.text_input("Or type your own question:", value=st.session_state.ge
 if st.button("Ask Agent", type="primary") and question:
     with st.spinner("Agent is thinking..."):
         try:
-            res = requests.post(f"{API}/ask", json={"question": question}, timeout=30).json()
+            response = requests.post(f"{API}/ask", json={"question": question}, timeout=60)
+            response.raise_for_status()
+            res = response.json()
             st.markdown(f'<div class="answer-box"><b>Answer:</b><br>{res["answer"]}</div>', unsafe_allow_html=True)
             col1, col2 = st.columns(2)
             with col1:
@@ -62,6 +65,17 @@ if st.button("Ask Agent", type="primary") and question:
                     st.info("No tool needed - answered directly")
             with col2:
                 st.caption(f"Latency: {res['latency_ms']}ms")
+
+            if res.get("nlp"):
+                nlp = res["nlp"]
+                confidence = float(nlp.get("confidence", 0))
+                st.caption(
+                    f"Intent: {nlp.get('intent', 'unknown')} · "
+                    f"Confidence: {confidence:.1%} · "
+                    f"Mode: {res.get('mode', 'unknown')}"
+                )
+                if nlp.get("entities"):
+                    st.json(nlp["entities"], expanded=False)
 
             if res.get("tool_result"):
                 result = res["tool_result"]
@@ -83,6 +97,15 @@ if st.button("Ask Agent", type="primary") and question:
                     fig = px.bar(df_plot, x="category", y="revenue", title="Revenue by Category", color="category")
                     st.plotly_chart(fig, use_container_width=True)
                 elif "total_revenue" in result:
-                    st.metric("Total Revenue", f"EUR {result['total_revenue']:,.2f}")
-        except Exception as e:
-            st.error(f"Error: {e}")
+                    if result.get("matched_rows") == 0:
+                        st.info("No matching rows exist in the sales dataset.")
+                    else:
+                        st.metric("Total Revenue", f"EUR {result['total_revenue']:,.2f}")
+        except requests.HTTPError as exc:
+            try:
+                detail = exc.response.json().get("detail", str(exc))
+            except ValueError:
+                detail = str(exc)
+            st.error(detail)
+        except requests.RequestException as exc:
+            st.error(f"Could not reach the backend: {exc}")
