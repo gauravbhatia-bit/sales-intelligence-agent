@@ -2,6 +2,12 @@
 
 Ask business questions about sales data in plain English. By default, a local NLP pipeline uses TF-IDF bigram features and logistic regression to classify intent, then extracts entities and routes the question to a pandas analytics tool. Gemini 3.8 Flash can be enabled explicitly as a low-confidence fallback. A FastAPI backend serves the REST API; a Streamlit front end shows KPIs, NLP predictions, answers and charts.
 
+## Live Demo
+
+- [Open the Streamlit application](https://sales-intelligence-agent-5brv6ii7xelgzq7omewadn.streamlit.app/)
+- [Explore the FastAPI documentation](https://sales-intelligence-api-22xn.onrender.com/docs)
+- [Check the backend status](https://sales-intelligence-api-22xn.onrender.com/status)
+
 ```
 Streamlit UI  ──HTTP──▶  FastAPI backend  ──▶  NLP intent + entity extraction
  (frontend/app.py)        (backend/main.py)          │
